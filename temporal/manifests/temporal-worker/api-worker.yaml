@@ -1,0 +1,34 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-worker
+  namespace: temporal-workers
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-worker
+  template:
+    metadata:
+      labels:
+        app: api-worker
+    spec:
+      containers:
+        - name: worker
+          image: python-temporal-api:local
+          imagePullPolicy: Never
+          env:
+            - name: TEMPORAL_HOST
+              value: temporal-frontend.temporal-system.svc.cluster.local:7233
+            - name: TEMPORAL_TASK_QUEUE
+              value: data-analysis
+            - name: API_SERVICE_URL
+              value: http://api-service.temporal-workers.svc.cluster.local:8000
+          resources:
+            requests:
+              memory: 128Mi
+              cpu: 100m
+            limits:
+              memory: 256Mi
+              cpu: 250m

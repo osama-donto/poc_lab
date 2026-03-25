@@ -1,0 +1,30 @@
+{
+  "product_taxonomy": {
+    "medication": [
+      "ANESTHESIA",
+      "ANALGESICS",
+      "ANTIBIOTICS",
+      "ANTI-INFLAMMATORY",
+      "CARDIOVASCULAR",
+      "ENDOCRINE",
+      "GASTROINTESTINAL",
+      "NEUROLOGICAL",
+      "RESPIRATORY",
+      "PREVENTATIVES",
+      "ANTIPARASITICS",
+      "SEDATIVES / TRANQUILIZERS",
+      "VACCINES",
+      "DERMATOLOGICAL",
+      "OPHTHALMIC/OTIC"
+    ],
+    "supply": [
+      "HOSPITAL SUPPLIES",
+      "SURGICAL SUPPLIES",
+      "DIAGNOSTIC SUPPLIES",
+      "SYRINGES & NEEDLES",
+      "BANDAGES & DRESSINGS",
+      "FOOD/DIET",
+      "CLEANING & DISINFECTANTS"
+    ]
+  }
+}

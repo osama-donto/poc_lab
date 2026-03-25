@@ -1,0 +1,1346 @@
+drug_schedule,description,trade_name_detected,is_billable,is_multi_dose,is_external,is_refrigerated,unit_of_issue,requires_cycle_count_witness,requires_issue_witness,requires_restock_witness,requires_return_witness,requires_waste_witness,Issue Unit Strength,order_quantity,order_unit,order_unit_price
+0,.05 x 9 Equine Stomach Tube ,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,0 PDS Suture,,1,0,1,0,PACK,0,0,0,0,0,,36,PACK ,$345.69
+0,0.45% NaCl 1 liter,,1,0,0,0,BAG,0,0,0,0,0,,12,BAG,$63.33
+0,0.45% NaCl 500ml ,,1,0,0,0,BAG,0,0,0,0,0,,18,BAG,$20.99
+0,0.9% Nacl Fluids Bag  24X500ML,,1,0,0,0,BAG,0,0,0,0,0,,24,BAG,$111.08
+0,0.9% NaCl Irrigation (1000mL),,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,1.5mm Endotracheal Tube,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,1/2 Cut 5 Surgical Needle Regular,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,1/4 in x 20yd Umbilical Tape,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,10fr Endotracheal Introducer,BOUGIE ,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$13.27
+0,10fr x 42 Green Feeding Tube,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$1.29
+0,10mL Blood Tube No adds,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,10ml Red Blood Collect Tube 100ct,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,11.0mm Endotracheal Tube,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$4.49
+0,12.0mm Endotracheal Tube,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$8.99
+0,12-16in Feeding Tube Collar,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$42.61
+0,12fr x 40cm Foley Cath 5mL Balloon,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$10.41
+0,12g x 1in Multi BLOOD collection,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$11.78
+0,12mL Curved Tip Syringe,,1,0,1,0,BOX,0,0,0,0,0,,50,SYR,$20.18
+0,12mL Syringe,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$26.73
+0,12qt Sharps Container,,1,0,1,0,EACH,0,0,0,0,0,,1,BOX,$0.00
+0,140mL Syringe,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$5.10
+0,14g x 1.5 Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$18.13
+0,14g x 13cm Catheter Fenestrated ,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$12.70
+0,14g x 2.0 Needle Green,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$20.95
+0,14g x 2in  Needle Hypodermic,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$23.02
+0,14g x 9cm Super Core Biopsy Needle ,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$25.91
+0,15g x 22in Equine Trach Wash Kit,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$13.78
+0,16g x  9cm Biopsy Needle,Jorvet,1,0,1,0,PACKET,0,0,0,0,0,,1,PACKET,$0.00
+0,16g x 0.75 Needle Hypoder Vet Gray ,Monoject,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,16G x 1 Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,16g x 1.0 Needle Bevel Gray,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$18.54
+0,16g x 1.5in Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$21.49
+0,16g x 1in Needle Hypodermic,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$18.67
+0,16g x 2in Catheter,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.58
+0,16g x 8cm Catheter Fenestrated,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$12.20
+0,16Ga x 7.5cm Catheter ,MILA Centesis,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$26.00
+0,16X1 100S Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,18fr x 40cm Catheter Foley,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$14.85
+0,18G Catheter #50,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$60.27
+0,18g x 1 1/2 Needle Hypodermic,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$11.35
+0,18g x 1.0 Needle  Gray,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,18g x 1.16 Catheter,Insyte,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$29.02
+0,18G x 1.5 Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$4.57
+0,18g x 1in Needle,Nippro,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$3.45
+0,18g x 25cm Spinal Needle,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$10.22
+0,18g x 3/4in Butterfly Infusion Set ,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.87
+0,18g x 5/8 Needle Pink,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$13.96
+0,18g x 9cm SuperCore Biopsy Needle,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,18GX1 Needle HYPO,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$6.74
+0,19g x 1 1/2in Needle,Nippro,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$4.04
+0,19g x 25cm Catheter Drum Long Line,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$18.24
+0,1in x 10yd Porous Tape,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,1mL Oral Syringe w/Cap,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$15.09
+0,1mL Syringe,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$20.18
+6,20% Fat Emulsion Inj,,1,0,0,0,BAG,0,0,0,0,0,200mg,1,BAG,$24.06
+0,20g Catheter,,1,0,1,0,EACH,0,0,0,0,0,,50,EACH,$1.00
+0,20G Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$6.74
+0,20g x 0.5 Needle Hypoder Vet Pink ,Monoject,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,20g x 1 1/2 in Needle,Nippro,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$3.45
+0,20g x 1 SurFlo IV Catheter Pink ,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,20g x 1.25 Catheter,,1,0,1,0,EACH,0,0,0,0,0,,1,EA,$11.96
+0,20g x 1.5 Needle Rigid Vet Syr Pink,Monoject,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,20g x 1in Catheter ,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$1.21
+0,20g x 1in Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$10.49
+0,20g x 20cm Catheter Drum Long Line,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$18.24
+0,20mL Syringe,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$20.18
+0,21g x 1 Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$10.10
+0,22g  x 1.5 Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$3.04
+0,22g Catheter,Terumo,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$1.27
+0,22G Winged Infusion Set,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.73
+0,22g x 1 1/2in Needle,Nippro,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$3.82
+0,22g x 1.0 Needle Hypode Vet Blue,Monoject,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,22g x 25cm Catheter Drum Long Line,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$18.24
+0,22g x 3/4 Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$10.00
+0,22g x 3cc Syringe,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$13.54
+0,23g x 16ml Syringe Pico 70,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$454.00
+0,23g x 3/4 Needle,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$3.70
+0,24g Catheter,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$1.00
+0,25g x 1 Syringe,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$5.50
+0,25g x 5/8 Needle Hypodermic Vet Red,Monoject,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,2in Cast Padding ,,1,0,1,0,BAG,0,0,0,0,0,,1,BAG,$16.11
+0,2in x 3in Telfa Pad,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$4.70
+0,3 Fr x 25 Nasogastric Tube,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,"3.5"" Backhaus Towel Clamp",,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,30in Elizabethan Collar,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$4.46
+0,35 Regular Skin Stapler,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,3cc LL Syringe,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,3in x 4in  Telfa Pad,,1,0,1,0,EACH,0,0,0,0,0,,100,EACH,$18.88
+0,3in x 75in Bandage Stretch ,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$1.55
+0,3inch Cast tape ,Deltalite,1,0,1,0,ROLL,0,0,0,0,0,,10,ROLL,$40.14
+0,3mL Syringe,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,3mm Biopsy Punch,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$1.74
+0,3x3 Gauze Sponge 12 PLY ,Curity,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,45cc Clear Plastic Bttl,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$56.84
+0,4in Conform Stretch Bandage ,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$3.25
+0,4in Vetrap Assorted,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,4x4 Gauze 4 PLY,Versalon,1,0,1,0,SLEEVE,0,0,0,0,0,,1,SLEEVE,$0.00
+0,5cc Prima Syringe,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$36.86
+0,5in Mila Centesis Valve/Drain Adap,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$47.50
+0,5inch Cast tape,Deltalite,1,0,1,0,ROLL,0,0,0,0,0,,10,ROLL,$83.80
+0,5ml Blood Tubes 100ct,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$28.00
+0,5ml Lavender Blood Collection Tube ,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,5ml Red Blood Collection Tube,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+0,60 drops/ml IV Administration set,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$5.31
+0,60 x 90cm Buster Drape ,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$31.89
+0,60cc LS Syringe,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$21.98
+0,60mL Syringe,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$20.18
+0,6mL Syringe,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$20.18
+0,7.5mm Endo trachealTube,,1,1,1,0,UNIT,0,0,0,0,0,,1,UNIT,$1.41
+0,8fr 30sm Foley Catheter,FC830,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,8fr x 30cm Foley Cath 3mL Balloon ,,1,0,0,0,EACH,0,0,0,0,0,,5,EACH,$11.92
+0,8qt Sharps Container,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Abbott Freestyle Libre Sensor 3 ,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$91.72
+6,Acepromazine 10mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,10 mg,50,ML,$24.79
+6,Acepromazine 25mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,25 mg,100,TAB,$46.93
+2,Acetamin/Codeine 120/12mg Oral 5mL,Tylenol 3,1,1,0,0,ML,1,1,1,1,1,132mg,473,ML,$507.85
+6,Acetaminophen 32 mg/mL Oral ,Tylenol,1,1,0,0,ML,0,0,0,0,0,32 mg,59,ML,$4.72
+6,Acetaminophen 325 mg Tablet,Tylenol,1,1,0,0,TAB,0,0,0,0,0,325 mg,100,TAB,$0.00
+6,Acetaminophen 500 mg Tablet,Tylenol,1,1,0,0,TAB,0,0,0,0,0,500 mg,100,TAB,$2.06
+2,Acetamin/Codeine 300/30MG Tablet,Tylenol 3,1,1,0,0,TAB,1,1,1,1,1,330mg,100,TAB,$21.89
+6,AcetaZOLAMIDE 250 mg Tablet,Diamox,1,1,0,0,TAB,0,0,0,0,0,250 mg,100,TAB,$28.70
+6,Acetylcysteine 20% Inj,,1,1,0,0,ML,0,0,0,0,0,200mg,6,ML,$43.16
+2,Actacode Codeine Linctus 25mg/mL Inj,,1,1,0,0,ML,1,1,1,1,1,25 mg,100,ML,$0.28
+6,Activated Charcoal  50g/225ml,,1,1,0,0,ML,0,0,0,0,0,222mg,225,ML,$0.07
+6,Activated Charcoal 24g/100mL,,1,1,0,0,ML,0,0,0,0,0,100 ml,100,ML,$0.00
+6,Activated Charcoal w/Sorb 50g/250ml,,1,1,0,0,ML,0,0,0,0,0,240mg,250,ML,$0.08
+6,Acular Eye Drops 0.5% 5ml,Veenak,1,0,0,0,EACH,0,0,0,0,0,0.50%,5,EACH,$10.24
+6,Acyclovir 400 mg Tablet,Zovirax,1,1,0,0,TAB,0,0,0,0,0,400 mg,100,TAB,$8.19
+0,Adaptil Calm Collar Small,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$15.92
+0,Adaptil Collar Junior,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$15.14
+0,Adaptil Diffuser + 48ml refill,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$16.50
+6,Adequan 100mg/ml Inj,,1,1,0,1,ML,0,0,0,0,0,100mg,10,ML,$0.00
+6,Adrenaline (1:1000) 1ml vial,,1,0,0,0,VIAL,0,0,0,0,0,,10,ML,$12.24
+6,Advantage 250 L/dog (10-25kg) ,Advantage,1,0,0,0,DOSE,0,0,0,0,0,,4,VIAL,$6.46
+6,Advita Probiotic Paste for Pets 15g,,1,0,0,0,SYR,0,0,0,0,0,15 g,1,SYR,$5.48
+6,Advita Probiotic Powder for Cats 1g,,1,0,0,0,PACKET,0,0,0,0,0,1 g,30,PACKET,$14.91
+6,Advita Probiotic Powder for Dogs 1g,,1,0,0,0,PACKET,0,0,0,0,0,1 g,30,PACKET,$14.91
+6,Aerokat Aerosol Chamber,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$40.74
+6,Aglepristone 30mg/ml Inj,Alizine,1,1,0,0,ML,0,0,0,0,0,30mg,10,ML,$46.51
+6,Aktivait Cat Capsule,,1,0,0,0,CAP,0,0,0,0,0,,60,CAP,$24.00
+6,Aktivait Med/Lge Breed Tablet,,1,0,0,0,CAP,0,0,0,0,0,,60,CAP,$24.00
+6,Albumin Lyophilized 5gm,,1,0,0,0,BTTL,0,0,0,0,0,5 g,1,BTTL,$373.00
+6,Albuterol 90 mcg Inhaler,,1,0,0,0,EACH,0,0,0,0,0,90 mcg,1,EACH,$88.70
+6,Albuterol Sulfate 0.4 mg/mL Oral,,1,1,0,0,ML,0,0,0,0,0,0.4 mg,473,ML,$17.35
+6,Alcaine 0.5% Eye Drops,,1,0,0,0,BTTL,0,0,0,0,0,0.50%,1,BTTL,$0.00
+4,Alfaxalone 10mg/mL Inj,,1,1,0,0,ML,1,1,1,1,1,10 mg,10,ML,$38.90
+6,Allerderm shampoo 250ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$10.99
+6,Allopurinol 100mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,100 mg,100,TAB,$0.00
+6,Allopurinol 300mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,300 mg,100,TAB,$0.00
+4,Alprazolam 0.25mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,0.25 mg,100,TAB,$0.00
+4,Alprazolam 0.5mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,0.5 mg,100,TAB,$0.00
+4,Alprazolam 1mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,1 mg,100,TAB,$0.00
+4,Alprazolam 2mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,2 mg,100,TAB,$12.79
+6,Aluminum Hydroxide 64 mg/mL Gel,,1,1,0,0,ML,0,0,0,0,0,64 mg,473,ML,$6.71
+6,Amacin Ear & Eye Ointment 4g,,1,0,0,0,TUBE,0,0,0,0,0,4 g,1,TUBE,$10.49
+6,Amantadine 10mg/mL Oral Soln,,1,1,0,0,ML,0,0,0,0,0,10 mg,473,ML,$18.15
+6,Amantidine 100mg tablet,,1,1,0,0,TAB,0,0,0,0,0,100 mg,100,TAB,$0.00
+6,Amikacin Injection 250mg/mL,,1,0,0,0,BTTL,0,0,0,0,0,250 mg,10,BTTL,$77.30
+6,Aminocaproic Acid 250mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,250 mg,20,ML,$10.60
+6,Aminocaproic Acid 500mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,500 mg,90,TAB,$1.65
+6,Aminophylline 25mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,25 mg,20,TAB,$378.02
+6,Aminophylline 25mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,25mg,1,ML,$11.65
+6,Amiodarone 200mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,200 mg,60,TAB,$7.89
+6,Amitriptyline 100mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,100 mg,100,TAB,$6.77
+6,Amitriptyline 10mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,10 mg,100,TAB,$1.97
+6,Amitriptyline 25mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,25 mg,100,TAB,$2.61
+6,Amitriptyline 50mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,100,TAB,$4.58
+6,Amlodipine 1.25mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,1.25 mg,90,TAB,$0.00
+6,Amlodipine 2.5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,2.5 mg,90,TAB,$1.79
+6,Amlodipine 5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,5 mg,90,TAB,$0.94
+6,Amoxi Drops 50mg/ml,,1,0,0,0,BTTL,0,0,0,0,0,50mg,1,BTTL,$13.85
+6,Amoxi/Clav Potass 62.5mg/mL Oral,Clavamox Drops,1,0,0,0,BTTL,0,0,0,0,0,62.5 mg,1,BTTL,$12.24
+6,Amoxicillin/Clavulanate 125mg Tab,Clavamox,1,1,0,0,TAB,0,0,0,0,0,125 mg,210,TAB,$0.00
+6,Amoxicillin/Clavulanate 250mg Tab,Clavamox,1,1,0,0,TAB,0,0,0,0,0,250 mg,210,TAB,$246.13
+6,Amoxicillin/Clavulanate 375mg Tab,Clavamox,1,1,0,0,TAB,0,0,0,0,0,375 mg,210,TAB,$0.00
+6,Amoxicillin/Clavulanate 62.5mg Tab,Clavamox,1,1,0,0,TAB,0,0,0,0,0,62.5 mg,210,TAB,$67.77
+6,Amoxicillin 100mg Tablet,Amoxil,1,1,0,0,TAB,0,0,0,0,0,100 mg,500,TAB,$0.38
+6,Amoxicillin 125 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,125 mg,100,TAB,$22.42
+6,Amoxicillin 150 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,150 mg,500,TAB,$260.95
+6,Amoxicillin 200 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,200 mg,500,TAB,$276.35
+6,Amoxicillin 250mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,250 mg,500,CAP,$0.00
+6,Amoxicillin 400 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,400 mg,250,TAB,$238.45
+6,Amoxicillin 50 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,500,TAB,$114.20
+6,Amoxicillin 500mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,500 mg,500,CAP,$0.00
+6,Amphotericin 3mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,3 mg,15,ML,$49.15
+6,Ampicillin 1000mg Inj,,1,0,0,0,VIAL,0,0,0,0,0,1000 mg,1,VIAL,$3.75
+6,Ampicillin 250mg Inj,,1,0,0,0,VIAL,0,0,0,0,0,250 mg,1,VIAL,$2.30
+6,Ampicillin 500mg Inj,,1,0,0,0,VIAL,0,0,0,0,0,500 mg,1,VIAL,$2.22
+6,Ampicillin Sulbactam 1.5g Inj,,1,0,0,0,VIAL,0,0,0,0,0,1.5 g,10,VIAL,$15.71
+6,Ampicillin Sulbactam 30mg/ml Inj,Unasyn,1,1,0,0,ML,0,0,0,0,0,30 mg,50,ML,$58.00
+2,Anesketin 100mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,100mg,5,ML,$0.00
+6,Animax Ointment 15ml,Animax,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$13.63
+6,Animax Ointment 30 mL,Animax,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$21.25
+6,Animax Ointment 7.5ml,Animax,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$9.11
+6,Antivenin,,1,0,0,0,DOSE,0,0,0,0,0,,1,DOSE,$0.00
+6,Apomorphine 3mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,3mg,3,ML,$0.00
+6,Apomorphone 6mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,6 mg,6,TAB,$0.00
+6,aPTT In-House,,1,0,0,0,EACH,0,0,0,0,0,,10,TEST,$0.00
+6,Artifical Tears Solution,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Artificial Tears Ointment,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$10.16
+6,Atenolol 50 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,100,TAB,$3.34
+6,Atipamazole 5mg/mL Inj,"Antisedan, Revertadine",1,1,0,0,ML,0,0,0,0,0,5 mg,10,ML,$0.00
+6,Atopica 100mg Capsule,Atopica,1,0,0,0,BOX,0,0,0,0,0,100 mg,1,BOX,$65.60
+6,Atopica 10mg Capsule,Atopica,1,0,0,0,BOX,0,0,0,0,0,10 mg,1,BOX,$22.71
+6,Atopica 25mg Capsule,Atopica,1,0,0,0,BOX,0,0,0,0,0,25 mg,1,BOX,$25.70
+6,Atopica 50mg Capsule,Atopica,1,0,0,0,BOX,0,0,0,0,0,50 mg,1,BOX,$41.20
+6,Atopica Feline 5ml,Atopica Feline,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$35.96
+6,Atracurium Besylate 10mg/ml Inj ,,1,0,0,0,BTTL,0,0,0,0,0,10 mg,10,BTTL,$115.50
+6,Atropine 0.65mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,0.65 mg,50,ML,$71.29
+6,Atropine 1% Opth Sol 5ml,,1,0,0,0,BTTL,0,0,0,0,0,1%,1,BTTL,$20.51
+6,Atropine Ophth Oint 1%,,1,0,0,0,EACH,0,0,0,0,0,1%,1,EACH,$21.95
+6,Atropine Sulfate 0.54mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,0.54 mg,100,ML,$8.76
+6,Azithromycin 20mg/mL Oral 15mL,,1,0,0,0,BTTL,0,0,0,0,0,20mg,1,BTTL,$4.25
+6,Azithromycin 250 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,250 mg,18,TAB,$4.83
+6,Azithromycin 40mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,40 mg,1,ML,$3.30
+6,Azithromycin 500mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,500 mg,9,TAB,$6.62
+6,Azithromycin 50mg/mL Inj,,1,0,0,0,VIAL,0,0,0,0,0,50 mg,10,VIAL,$35.18
+6,Azodyl 90 Count Bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$65.96
+6,Azopt 10mg/ml Drops 5ml,,1,0,0,0,BTTL,0,0,0,0,0,10 mg,1,BTTL,$25.75
+6,Azostix 25 Count,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$44.99
+6,Bag Balm 4.5lb,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$35.84
+6,Balance Stress/Dehydration 40lb ,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$6.21
+6,Bar Somnus 2P 50 Dose Bottle,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,B-Complex Oral ,Nutrived,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Before-X Sterile Ear Solution 100ml,Tris-EDTA,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$11.79
+6,Benazepril 10mg Tablet,"Fortekor, Lotensin",1,1,0,0,TAB,0,0,0,0,0,10 mg,100,TAB,$4.05
+6,Benazepril 2.5mg Tablet,"Fortekor, Lotensin",1,1,0,0,TAB,0,0,0,0,0,2.5 mg,100,TAB,$0.96
+6,Benazepril 20mg Tablet,"Fortekor, Lotensin",1,1,0,0,TAB,0,0,0,0,0,20 mg,100,TAB,$5.25
+6,Benazepril 40mg Tablet,"Fortekor, Lotensin",1,1,0,0,TAB,0,0,0,0,0,40 mg,100,TAB,$14.15
+6,Bene-Bac Plus Pet Gel 15gm,,1,0,0,0,TUBE,0,0,0,0,0,15 g,1,TUBE,$4.35
+6,Benzonatate 100mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,100 mg,100,CAP,$8.24
+6,Benzoyl Peroxide Shampoo 1 Gallon,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$89.38
+6,Benzoyl Peroxide Shampoo16oz,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$9.95
+6,Betadine 5% Ophth Sterile Prep Sol,,1,0,0,0,EACH,0,0,0,0,0,5%,1,EACH,$18.75
+6,Betamethasone 6mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,6 mg,5,ML,$84.00
+6,Betamethasone/Gentamicin Spray,"GenOne, Betagen, Gentacalm",1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$26.82
+6,Bexagliflozin 15mg Tablet,Bexacat,1,1,0,0,TAB,0,0,0,0,0,15 mg,30,TAB,$59.67
+6,Bismuth 1 Gallon,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$14.21
+6,Bisolvon 5g Sachet 40ct,,1,0,0,0,EACH,0,0,0,0,0,5 g,40,EACH,$86.68
+6,Blood Bag 150ml Teramu Transfer,,1,0,0,0,BAG,0,0,0,0,0,,4,BAG,$120.00
+6,Blood Canine Packed RBC 125ml,,1,0,0,1,BAG,0,0,0,0,0,,1,BAG,$77.00
+6,Blood Canine Packed RBC 250ml,,1,0,0,1,BAG,0,0,0,0,0,,1,BAG,$132.00
+6,Blood Feline Packed RBC 25ml,,1,0,0,1,BAG,0,0,0,0,0,,1,BAG,$156.00
+5,Bonqat Oral Solution for Cats,Pregabalin ,1,0,0,0,BTTL,1,1,1,1,1,,1,BTTL,$0.00
+6,Bordatella Oral Vaccine,Trucan B,1,0,0,1,DOSE,0,0,0,0,0,,25,DOSE,$141.21
+6,Bordetella,,1,0,0,1,TRAY,0,0,0,0,0,,1,TRAY,$69.65
+6,BOVA GS-441524,,1,1,0,0,ML,0,0,0,0,0,,20,ML,$0.00
+6,BoviBond,,1,0,0,0,CASE,0,0,0,0,0,,1,CASE,$286.68
+6,Bovikalc Bolus,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$356.16
+6,Bovikalc Gun,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$37.85
+6,Bovi-Sera Cattle and Sheep Vaccine,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Bovishield Gold 5 +L5 10 Ds Bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$20.41
+6,Bovi-VIR PFW 50mL,,1,1,0,0,ML,0,0,0,0,0,,50,ML,$38.44
+6,BPO-3 Shampoo,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$13.76
+6,Braunamid Catgut No3,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Braunamid White 4 Non-Absorb 25m,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Bravecto 150mg/ml 15ml,Bravecto,1,0,0,0,DOSE,0,0,0,0,0,150 mg,1,DOSE,$915.00
+6,Bravecto Cat 13.8-27.5lbs,Bravecto,1,0,0,0,DOSE,0,0,0,0,0,,1,DOSE,$10.86
+6,Bravecto Cat 2.6-6.2lbs,Bravecto,1,0,0,0,DOSE,0,0,0,0,0,,1,DOSE,$10.15
+6,Bravecto Dog 22-44lbs,Bravecto,1,0,0,0,DOSE,0,0,0,0,0,,1,DOSE,$0.00
+6,Bravecto Dog 44-88lbs,Bravecto,1,0,0,0,DOSE,0,0,0,0,0,,10,DOSE,$150.20
+6,Brilinta 90mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,90 mg,60,TAB,$476.92
+6,Brimonidine Tartrate 0.2% Oph Sol,,1,0,0,0,BTTL,0,0,0,0,0,0.20%,1,BTTL,$0.00
+6,Bromenfac 0.09% Ophth Soln 1.7 mL,,1,0,0,0,BTTL,0,0,0,0,0,0.09%,1,BTTL,$0.00
+0,Brown Gauze Roll,,1,0,0,0,EACH,0,0,0,0,0,,12,EACH,$8.20
+6,Budesonide 0.5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,0.5 mg,30,TAB,$0.00
+6,Budesonide 3mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,3 mg,30,TAB,$0.00
+6,Bupivacaine 0.25% (25 mg/ml) Inj,,1,1,0,0,ML,0,0,0,0,0,0.25%,50,ML,$7.33
+6,Bupivacaine 0.5% (5mg/ml) Inj,,1,1,0,0,ML,0,0,0,0,0,0.50%,50,ML,$6.10
+3,Buprenorphine 0.2mg Sublingual Tab,,1,1,0,0,TAB,1,1,1,1,1,0.2 mg,50,TAB,$52.22
+3,Buprenorphine 0.3 mg/ml Oral ,,1,1,0,0,ML,1,1,1,1,1,0.3 mg,30,ML,$175.00
+3,Buprenorphine 0.3mg/ml Inj,Vetergesic,1,1,0,0,ML,1,1,1,1,1,0.3 mg,5,ML,$0.00
+3,Buprenorphine 0.5 mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,0.5 mg,10,ML,$0.00
+3,Buprenorphine 0.5mg/ml Oral,,1,1,0,0,ML,1,1,1,1,1,0.5 mg,120,ML,$0.00
+3,Buprenorphine 0.6 mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,0.6 mg,10,ML,$53.94
+3,Buprenorphine 0.6 mg/ml Oral,,1,1,0,0,ML,1,1,1,1,1,0.6 mg,90,ML,$175.00
+3,Buprenorphine 0.8mg/ml Sublingual ,,1,1,0,0,ML,1,1,1,1,1,0.8 mg,10,ML,$30.53
+8,Buprenorphine 5ug Patch,,1,0,0,0,EACH,1,1,1,1,1,5ug,2,EACH,$27.13
+3,Buprenorphine ER 1.3 mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,1.3 mg,3,ML,$415.00
+3,Buprenorphine SR 1.8 mg/ml Inj,Simbadol,1,1,0,0,ML,1,1,1,1,1,1.8 mg,10,ML,$317.45
+3,Buprenorphine Transd 20mg/ml 0.4ml,Zorbium 2-6lbs,1,0,0,0,TUBE,1,1,1,1,1,20mg,10,TUBE,$77.86
+3,Buprenorphine Transd 20mg/ml 1ml ,Zorbium 6-12lbs ,1,0,0,0,TUBE,1,1,1,1,1,20mg,10,TUBE,$156.12
+6,Buscopan 10mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,10 mg,40,TAB,$5.72
+6,Buscopan 20mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,20 mg,50,ML,$0.00
+4,Butorphanol 10mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,10 mg,100,TAB,$439.00
+4,Butorphanol 10mg/mL Inj,"Dolorex, Torbugesic",1,1,0,0,ML,1,1,1,1,1,10mg,10,ML,$54.98
+4,Butorphanol 1mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,1 mg,100,TAB,$0.00
+4,Butorphanol 5mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,5 mg,100,TAB,$261.50
+0,C.E.T. Enzymatic Poultry 2.5oz,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Calcitriol 0.25mcg Capsule,,1,0,0,0,CAP,0,0,0,0,0,0.25 mcg,30,CAP,$6.40
+6,Calcitriol 0.5mcg Tablet,,1,1,0,0,TAB,0,0,0,0,0,0.5 mcg,100,TAB,$15.47
+6,Calcitriol 1mcg/ml Oral Solution,,1,1,0,0,ML,0,0,0,0,0,1 mcg,15,ML,$82.93
+6,Calcium Acetate 667mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,667 mg,200,TAB,$30.89
+6,Calcium Carbonate 1000mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,1000 mg,160,TAB,$0.06
+6,Calcium Gel 300ml Tube,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$11.30
+6,Calcium Gluconate 10% Inj,,1,0,0,0,AMP,0,0,0,0,0,10%,10,AMP,$21.55
+6,Calcium Gluconate 23% 500ml,,1,0,0,0,BTTL,0,0,0,0,0,23%,1,BTTL,$3.71
+6,Calcium Syrup 1L,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Calf Claim 6.5oz,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Calf Snare (Ideal),,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$40.88
+6,Calf's Choice,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$1.74
+0,Calmer Collar Large KVP,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$17.58
+0,Calmer Collar XS KVP,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$10.18
+6,Calsorb Supplement Gel 12mL,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$7.28
+6,Calva Milk Replacer 25lb,,1,0,0,0,BAG,0,0,0,0,0,,1,BAG,$0.00
+6,Can 1 DAPPv Vacc 1ml (1 Yr),Nobivac,1,0,0,1,DOSE,0,0,0,0,0,,25,DOSE,$7.97
+6,Canaural Ear Drops 15ml,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$10.49
+6,Candesartan 16mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,16 mg,90,TAB,$36.38
+6,Canine DHPP Vaccine,,1,0,0,1,DOSE,0,0,0,0,0,,25,DOSE,$119.75
+6,Canine Parvo Antibody per 11lb,,1,0,0,1,VIAL,0,0,0,0,0,,6,VIAL,"$1,320.00 "
+6,Caninsulin 40IU/ml 2.5ml Vials,,1,0,0,0,BOX,0,0,0,0,0,40iu,1,BOX,$0.00
+6,Capromorelin 30mg/ml Oral 15ml ,Entyce,1,0,0,0,EACH,0,0,0,0,0,,15,ML,$37.88
+6,Capromorelin 30mg/ml Oral 30ml,Entyce,1,0,0,0,EACH,0,0,0,0,0,,30,ML,$64.89
+6,Capromorelin 30mg/ml Oral10ml ,Entyce,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$32.76
+6,Capstar Cats 11.4mg Pink ,,1,0,0,0,DOSE,0,0,0,0,0,,60,DOSE,$110.43
+6,Capstar Dog 11.4mg Blue ,,1,0,0,0,DOSE,0,0,0,0,0,11.4 mg,60,DOSE,$28.10
+6,Capstar Dog 57mg Green  ,,1,0,0,0,DOSE,0,0,0,0,0,57 mg,60,DOSE,$29.19
+6,Carafate 1gm,,1,1,0,0,TAB,0,0,0,0,0,1 g,500,TAB,$105.70
+6,Carbocaine-V 2% Inj ,,1,1,0,0,ML,0,0,0,0,0,20mg,50,ML,$0.66
+6,Carbodote Oral Susp. 100ml  ,,1,1,0,0,ML,0,0,0,0,0,100 ml,100,ml,$10.87
+6,Carbosorb 0.2% 250ml ,,1,0,0,0,BTTL,0,0,0,0,0,2mg,1,BTTL,$0.00
+6,Cardalis 20mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,20 mg,30,TAB,$32.55
+6,Carisoprodol 350mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,350 mg,100,TAB,$6.22
+6,Carprofen 100mg Caplet,Vetprofen,1,0,0,0,CAP,0,0,0,0,0,100 mg,240,TAB,$83.64
+6,Carprofen 100mg Chew,"Rimadyl, Novox",1,1,0,0,TAB,0,0,0,0,0,100 mg,180,TAB,$101.92
+6,Carprofen 100mg Tablet,Rimadyl,1,1,0,0,TAB,0,0,0,0,0,100 mg,180,TAB,$77.11
+6,Carprofen 100mg/ml Oral,,1,1,0,1,ML,0,0,0,0,0,100 mg,120,ML,$0.00
+6,Carprofen 25mg Caplet,Vetprofen,1,0,0,0,CAP ,0,0,0,0,0,25 mg,240,TAB,$57.36
+6,Carprofen 25mg Chew,"Rimadyl, Novox",1,1,0,0,TAB,0,0,0,0,0,25 mg,180,TAB,$0.36
+6,Carprofen 25mg Tablet,Rimadyl,1,1,0,0,TAB,0,0,0,0,0,25 mg,180,TAB,$53.24
+6,Carprofen 50 mg/ml Inj,Rimadyl,1,1,0,1,ML,0,0,0,0,0,50 mg,20,ML,$52.77
+6,Carprofen 75 mg Chew,"Novox, Rimadyl",1,1,0,0,TAB,0,0,0,0,0,75 mg,60,TAB,$24.39
+6,Carprofen 75mg Caplet,Vetprofen,1,0,0,0,CAP,0,0,0,0,0,75 mg,240,CAP ,$66.18
+6,Carprofen 75mg Tablet,Rimadyl,1,1,0,0,TAB,0,0,0,0,0,75 mg,180,TAB,$65.28
+6,Carvedilol 12.5mg Tablet,Coreg,1,1,0,0,TAB,0,0,0,0,0,12.5 mg,100,TAB,$2.54
+6,Carvedilol 25mg Tablet,Coreg,1,1,0,0,TAB,0,0,0,0,0,25 mg,100,TAB,$11.10
+6,Carvedilol 3.125mg Tablet,Coreg,1,1,0,0,TAB,0,0,0,0,0,3.125 mg,100,TAB,$3.77
+6,Carvedilol 6.25mg Tablet,Coreg,1,1,0,0,TAB,0,0,0,0,0,6.25 mg,100,TAB,$5.13
+6,Casimune CAS Soft Chews 120ct,,1,0,0,0,JAR,0,0,0,0,0,,1,JAR,$35.01
+6,Cefadroxil 50 mg/mL Oral ,,1,0,0,0,BTTL,0,0,0,0,0,50 mg,1,BTTL,$12.64
+6,Cefazolin 10gm,,1,0,0,0,BTTL,0,0,0,0,0,10 g,100,BTTL,$11.12
+6,Cefazolin 1gm Vial,,1,0,0,0,BTTL,0,0,0,0,0,1 g,250,BTTL,$25.44
+6,Cefovecin Sodium 80 mg/mL Inj,Convenia,1,1,0,0,ML,0,0,0,0,0,80 mg,10,ML,$457.40
+6,Cefoxitin 1g Injection,,1,0,0,0,BTTL,0,0,0,0,0,1 g,10,BTTL,$62.81
+6,Cefpodoxime 100mg Tablet,Simplicef,1,1,0,0,TAB,0,0,0,0,0,100 mg,250,TAB,$116.71
+6,Cefpodoxime 200mg Tablet,Simplicef,1,1,0,0,TAB,0,0,0,0,0,200 mg,500,TAB,$328.56
+6,Ceftazidime 100mg/ml Inj,,1,0,0,0,VIAL,0,0,0,0,0,100 mg,25,VIAL,$103.50
+6,Ceftriaxone 1g Injectable,,1,0,0,0,VIAL,0,0,0,0,0,1 g,10,VIAL,$36.29
+6,Cefuroxime 1.5g,Zinacef,1,0,0,0,EACH,0,0,0,0,0,1.5 g,1,EACH,$11.64
+6,Cefuroxime 250 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,250 mg,60,TAB,$103.91
+6,Cefuroxime PDR Inj 250mg per vial,Zinacef,1,0,0,0,VIAL,0,0,0,0,0,250 mg,5,VIAL,$9.53
+6,Cefuroxime PDR Inj 750mg per vial,Zinacef,1,0,0,0,VIAL,0,0,0,0,0,750 mg,5,VIAL,$24.13
+6,Cephalexin 150 mg Chew Tablet,Keflex,1,1,0,0,TAB,0,0,0,0,0,150 mg,100,TAB,$30.41
+6,Cephalexin 250 mg Capsule,Keflex,1,0,0,0,CAP ,0,0,0,0,0,250 mg,100,CAP ,$4.35
+6,Cephalexin 300 mg Chew Tablet,Keflex,1,1,0,0,TAB,0,0,0,0,0,300 mg,100,TAB,$49.31
+6,Cephalexin 500mg Capsule,Keflex,1,0,0,0,CAP,0,0,0,0,0,500 mg,100,CAP,$0.00
+6,Cephalexin 600 mg Chew Tablet,Keflex,1,1,0,0,TAB,0,0,0,0,0,600 mg,100,TAB,$88.11
+6,"Cephalexin Susp 50mg/mL, 100mL",Keflex,1,1,0,0,ML,0,0,0,0,0,50mg,100,ML,$0.00
+6,Cerasoothe CHX+KET Shampoo,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$11.48
+6,Chloramphenicol 1000 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,1000 mg,100,TAB,$81.07
+6,Chloramphenicol 250 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,250 mg,500,TAB,$91.76
+6,Chloramphenicol 500 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,500 mg,500,TAB,$177.81
+6,Chloramphenicol Eye Drops 0.5% 10ml,,1,0,0,0,EACH,0,0,0,0,0,0.50%,1,EACH,$13.58
+6,Chloramphenicol Ointment 1% 5G,,1,0,0,0,TUBE,0,0,0,0,0,1%,1,TUBE,$6.49
+6,Chlorhexidine Shampoo 4%,,1,0,0,0,BTTL,0,0,0,0,0,4%,1,BTTL,$9.24
+6,Chlorhexidine Solution 2% 1 Gallon,,1,0,0,0,GAL,0,0,0,0,0,,1,GAL,$7.96
+6,Chloropt Eye Ointment 1% 5G,,1,0,0,0,EACH,0,0,0,0,0,1%,1,EACH,$6.49
+6,Chlorpheniramine 10mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,10 mg,50,ML,$50.51
+6,Chlorpheniramine 4mg,,1,1,0,0,TAB,0,0,0,0,0,4 mg,100,TAB,$1.24
+6,Chlorsig Drops 0.5% Drops 10Ml,,1,0,0,0,BTTL,0,0,0,0,0,0.50%,1,BTTL,$6.79
+6,Cholestyramine 4 gm packet,,1,0,0,0,PACKET,0,0,0,0,0,4 g,10,PACKET,$0.00
+6,Cimetidine 400mg Tablet,Tagamet,1,1,0,0,TAB,0,0,0,0,0,400 mg,100,TAB,$25.93
+6,Cimetidine 800 mg Tablet,Tagamet,1,1,0,0,TAB,0,0,0,0,0,800 mg,100,TAB,$120.76
+6,Ciprofloxacin  0.3% Opth Sol .3% 5ml ,,1,0,0,0,EACH,0,0,0,0,0,3%,1,EACH,$23.12
+6,Ciprofloxacin 0.3% Ophth Sol,,1,0,0,0,EACH,0,0,0,0,0,0.30%,1,EACH,$15.81
+6,Ciprofloxacin 100mg/ml HCl Oral ,,1,1,0,0,ML,0,0,0,0,0,100 mg,30,ML,$61.65
+6,Ciprofloxacin 250 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,250 mg,100,TAB,$23.33
+6,Ciprofloxacin 500mg Capsule,,1,0,0,0,CAP ,0,0,0,0,0,500 mg,100,CAP ,$0.00
+6,Ciprofloxacin 50mg/ml Oral,,1,1,0,0,ML,0,0,0,0,0,50 mg,120,ML,$0.00
+6,Ciprofloxacin 750 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,750 mg,50,TAB,$10.76
+6,Cisapride 5mg per Tablet ,,1,1,0,0,TAB,0,0,0,0,0,5 mg,100,TAB,$37.80
+6,Cisplatin 1mg/ml Inj 50ml ,,1,1,0,0,ML,0,0,0,0,0,1 mg,50,ML,$17.71
+6,Citadel L 5,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,CIV Vaccine,,1,0,0,0,DOSE,0,0,0,0,0,,25,DOSE,$439.00
+6,Clarithromycin 25 mg/mL Oral,,1,0,0,0,BTTL,0,0,0,0,0,25 mg,1,BTTL,$67.72
+6,Claro Otic Solution (per tube),,1,0,0,0,TUBE,0,0,0,0,0,,10,TUBE,$0.00
+6,Clean Up Pour On 2.5gal,,1,0,0,0,EACH,0,0,0,0,0,2.5 g,1,EACH,$0.00
+6,Clindamycin  25mg/mL Inj 20mL,Antirobe,1,0,0,0,BTTL,0,0,0,0,0,25mg,1,BTTL,$28.60
+6,Clindamycin 150 mg Capsule,Antirobe,1,0,0,0,CAP ,0,0,0,0,0,150 mg,100,CAP ,$6.61
+6,Clindamycin 25 mg Capsule,Antirobe,1,0,0,0,CAP,0,0,0,0,0,25 mg,200,CAP,$47.74
+6,Clindamycin 25 mg/mL Oral Drops,Antirobe,1,0,0,0,BTTL,0,0,0,0,0,25 mg,20,ML,$2.59
+6,Clindamycin 264mg Tablet,Zodon,1,1,0,0,TAB,0,0,0,0,0,264 mg,120,TAB,$129.27
+6,Clindamycin 300mg Capsule,Antirobe,1,0,0,0,CAP,0,0,0,0,0,300 mg,100,CAP,$13.67
+6,Clindamycin 75mg Capsule,Antirobe,1,0,0,0,CAP,0,0,0,0,0,75 mg,200,CAP,$50.66
+6,Clindamycin 88mg Tablet,Zodon,1,1,0,0,TAB,0,0,0,0,0,88mg,120,TAB,$59.85
+6,Clindamycin Oral,Zodon,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$9.24
+0,Clip n Cool Clipper Spray 400G,,1,0,0,0,EACH,0,0,0,0,0,400 g,1,EACH,$19.29
+6,Clomipramine 20mg Tablet 30ct,Clomicalm,1,0,0,0,BOX,0,0,0,0,0,20 mg,1,BOX,$0.00
+6,Clomipramine 40mg Tablet,Clomicalm,1,0,0,0,BOX,0,0,0,0,0,40 mg,1,BOX,$28.91
+6,Clomipramine 50 mg Capsule 100 ct,Clomicalm,1,0,0,0,BOX,0,0,0,0,0,50 mg,1,BOX,$8.82
+6,Clomipramine 5mg Tablet 30ct,Clomicalm,1,0,0,0,BOX,0,0,0,0,0,5 mg,1,BOX,$0.00
+4,Clonazepam 2mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,2 mg,100,TAB,$2.79
+6,Clonidine 0.1 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,0.1 mg,100,TAB,$3.30
+6,Clonidine 0.2 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,0.2 mg,100,TAB,$3.30
+6,Clonidine 0.3 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,0.3 mg,100,TAB,$4.04
+6,Clopidogrel 18.75mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,18.75 mg,100,TAB,$32.40
+6,Clopidogrel 75mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,75 mg,100,TAB,$0.53
+4,Clorazepate 7.5 mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,7.5 mg,100,TAB,$73.76
+6,Clorexyderm Ear Cleaner 150ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$12.81
+6,Clorexyderm Shampoo 200ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$12.95
+6,Clorexyderm Solution 200ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$12.95
+6,Clovite Conditioner,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,CLS Solution 250ml,,1,1,0,0,PACK,0,0,0,0,0,,1,PACK,$79.59
+6,CMPK  33% Oral 12oz,,1,0,0,0,EACH,0,0,0,0,0,33%,1,EACH,$0.00
+6,CMPK Gel 300ml Tube,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$5.70
+6,CMT Concentrate,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$10.30
+6,Co Trimoxazole Susp 40/200mg (100),,1,1,0,0,ML,0,0,0,0,0,240mg,100,ML,$17.51
+6,Cobalequin Cat/Sm Dog  Tablet 45ct,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$12.49
+6,Cobalequin M/L Dog Tablet 45ct,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$15.49
+2,Codeine 15 mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,15 mg,100,TAB,$102.79
+2,Codeine 30 mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,30 mg,100,TAB,$79.21
+2,Codeine 60 mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,60 mg,100,TAB,$146.91
+6,Colvasone 2% Inj 50ml ,,1,1,0,0,ML,0,0,0,0,0,,50,ML,$11.29
+6,Complivit 150ml bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$12.00
+6,Conzol 1% Lotion  60CC,,1,1,0,0,ML,0,0,0,0,0,1%,60,ML,$4.11
+6,Corid 20% SOL PWD,,1,0,0,0,PACK,0,0,0,0,0,20%,1,PACK,$15.00
+6,Corid 9.6% ORAL SOL 16OZ,,1,0,0,0,EACH,0,0,0,0,0,9.60%,1,EACH,$0.00
+6,Corid 9.6% ORAL SOL GAL,,1,0,0,0,EACH,0,0,0,0,0,9.60%,1,EACH,$0.00
+6,Cortavance 31ml Spray,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$11.47
+6,Cortisol Slide,,1,0,0,0,TEST,0,0,0,0,0,,6,TEST,$54.37
+6,Cortisol SNAP Test,,1,0,0,0,TEST,0,0,0,0,0,,6,TEST,$156.00
+6,Cortotic Ear Spray 16ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$13.46
+6,Cortrosyn 0.25mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,0.25 mg,2,ML,$0.00
+6,Corvental D 100mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,100 mg,100,CAP,$133.99
+6,Corvental D 200mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,200 mg,100,CAP,$175.91
+6,Cosacthen 0.25mg/ml Vial 1ml,,1,0,0,0,VIAL,0,0,0,0,0,0.25 mg,1,VIAL,$28.84
+6,Cosopt Dorzolamide 2% & Timolol0.5%,,1,0,0,0,BTTL,0,0,0,0,0,0.50%,1,BTTL,$15.88
+6,Cosyntropin 0.25 mg/mL Inj,,1,0,0,0,VIAL,0,0,0,0,0,0.25 mg,10,VIAL,$657.52
+6,Cotton Tip Applicators,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$5.68
+6,Cough Tablet 110mg,,1,1,0,0,TAB,0,0,0,0,0,110 mg,250,TAB,$60.11
+6,CPH: Mirtazapine 2mg (Per cap),,1,0,0,0,CAP,0,0,0,0,0,2 mg,100,CAP,$0.63
+6,Crananadin Chew Tablet 75ct,,1,1,0,0,TAB,0,0,0,0,0,,75,TAB,$32.99
+6,Crananidin Chew Tablet,,1,1,0,0,TAB,0,0,0,0,0,,75,TAB,$32.99
+6,Credelio 25.1-50lbs Chew,,1,1,0,0,TAB,0,0,0,0,0,,10,BOX,$938.05
+6,Credelio Canine 12.1-25lbs Chew,,1,1,0,0,TAB,0,0,0,0,0,,16,TAB,$271.04
+6,Credelio Canine 4.4-6lbs Chew,,1,1,0,0,TAB,0,0,0,0,0,,16,TAB,$264.96
+6,Credelio Feline 2-4lbs Chew,,1,1,0,0,TAB,0,0,0,0,0,,16,TAB,$201.92
+6,Credelio Feline 4.1-17lbs Chew,,1,1,0,0,TAB,0,0,0,0,0,,16,TAB,$223.04
+6,Critical Care Herbivore 141g,,1,0,0,0,BAG,0,0,0,0,0,141 g,1,BAG,$7.04
+6,Critical Care Herbivore 36g,,1,0,0,0,BAG,0,0,0,0,0,36 g,14,BAG,$39.29
+6,Crofelemer DR 125 mg Tablet,Canalevia,1,1,0,0,TAB,0,0,0,0,0,125 mg,60,TAB,$473.68
+6,Cryogen-X Detachable Blade Size 40,,1,0,0,0,EACH,0,0,0,0,0,,1,ECH,$0.00
+6,Cyclopentolate 1% Minims Vial,,1,0,0,0,VIAL,0,0,0,0,0,1%,20,VIAL,$74.40
+6,Cyclosporine 0.2% Ophth Oint,,1,0,0,0,TUBE,0,0,0,0,0,0.20%,6,TUBE,$226.02
+6,Cyclosporine 10mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,10 mg,15,CAP,$0.00
+6,Cyproheptadine 4mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,4 mg,100,TAB,$4.30
+6,Cyproheptadine HCl 4mg Tablet,Periactin,1,1,0,0,TAB,0,0,0,0,0,4 mg,100,TAB,$1.03
+6,DA2PP - Duramune Vial,,1,0,0,1,DOSE,0,0,0,0,0,,25,DOSE,$70.54
+6,Dalteparin Sodium 5000IU/0.2mL inj,Fragmin,1,0,0,0,BOX,0,0,0,0,0,5000iu,1,BOX,$0.00
+6,Danofloxacin Mesylate 180 mg/mL Inj,Advocin,1,1,0,0,ML,0,0,0,0,0,180 mg,100,ML,$197.91
+6,Dantrium 25mg Capsule ,Dantrolene,1,0,0,0,CAP,0,0,0,0,0,25 mg,100,CAP,$24.32
+6,Dasuquin Advanced Chews Large,,1,0,0,0,BAG,0,0,0,0,0,,4,BAG,$248.99
+6,Dasuquin For Cats Soft Chews,,1,0,0,0,BAG,0,0,0,0,0,,6,BAG,$50.99
+6,Dasuquin/ESM Eggshell Sm/Med,,1,0,0,0,BAG,0,0,0,0,0,,6,BAG,$34.99
+6,Demecarium Ophth Soln 0.125% 10mL,Humorsol,1,0,0,0,BTTL,0,0,0,0,0,0.13%,1,BTTL,$45.00
+6,Denamarin 225mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,225 mg,30,TAB,$23.95
+6,Denamarin 425mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,425 mg,30,TAB,$48.18
+6,Denamarin 90mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,90 mg,30,TAB,$21.26
+6,Denamarin Adv for Cats & Sm Dog,,1,1,0,0,TAB,0,0,0,0,0,,120,TAB,$85.06
+6,Denamarin Adv for Large K9 Chew,,1,1,0,0,TAB,0,0,0,0,0,,120,TAB,$212.60
+6,Dentihex Adhesive Oral Paste 20g,,1,0,0,0,TUBE,0,0,0,0,0,20 g,1,TUBE,$7.56
+6,Depo-Medrol 20mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,20 mg,5,ML,$48.10
+6,Depo-Medrol 40mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,10 ml,10,ML,$23.76
+6,Deracoxib 100mg Tablet,Deramaxx,1,1,0,0,TAB,0,0,0,0,0,100 mg,30,TAB,$55.66
+6,Deracoxib 12mg Tablet,Deramaxx,1,1,0,0,TAB,0,0,0,0,0,12 mg,30,TAB,$12.07
+6,Deracoxib 25mg Tablet,Deramaxx,1,1,0,0,TAB,0,0,0,0,0,25 mg,90,TAB,$64.67
+6,Deracoxib 75mg Tablet,Deramaxx,1,1,0,0,TAB,0,0,0,0,0,75 mg,30,TAB,$43.47
+6,Dermally Oatmeal Conditioner Spray,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$11.68
+6,Dermaquin Soft Chews Large,,1,0,0,0,BAG,0,0,0,0,0,,1,BAG,$27.99
+6,Derma-Vet Ointment 15mL,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$7.46
+6,Derma-Vet Ointment 7.5mL,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$4.61
+6,Deslorelin 1.5mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,1.5 mg,10,ML,$84.00
+6,Deslorelin 4.7mg Implant,Suprelorin 6,1,0,0,0,EACH,0,0,0,0,0,4.7 mg,2,EACH,$101.33
+6,Deslorelin 9.4mg Implant ,Suprelorin 12,1,0,0,0,EACH,0,0,0,0,0,9.4 mg,2,EACH,$202.67
+6,Desmopressin 4 mcg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,4 mcg,10,ML,$558.65
+6,Desmopressin Nasal Spray 0.01% 5mL ,,1,0,0,0,EACH,0,0,0,0,0,0.01%,1,EACH,$56.16
+6,Dexamethasone 0.1 mg/mL Oral Soln,,1,0,0,0,EACH,0,0,0,0,0,0.1 mg,1,EACH,$18.03
+6,Dexamethasone 0.1% Ophth Sol,,1,0,0,0,EACH,0,0,0,0,0,0.10%,1,EACH,$14.18
+6,Dexamethasone 0.5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,0.5 mg,100,TAB,$3.71
+6,Dexamethasone 0.75mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,0.75 mg,100,TAB,$21.42
+6,Dexamethasone 1mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,1 mg,100,TAB,$26.24
+6,Dexamethasone 2mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,2 mg,600,ML,$33.99
+6,Dexamethasone 4 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,4 mg,100,TAB,$7.93
+6,Dexamethasone SP 0.1% Ophth Soln,,1,0,0,0,BTTL,0,0,0,0,0,0.10%,1,BTTL,$8.43
+6,Dexamethasone SP 4mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,4mg,100,ML,$14.76
+6,Dexmedetomidine 0.5mg/mL Inj,Dexdomitor,1,1,0,0,ML,0,0,0,0,0,0.5 mg,10,ML,$102.33
+6,Dexmedtomidine Oromucosal Gel,Sileo,1,1,0,0,ML,0,0,0,0,0,,3,ML,$22.15
+6,Dextrose Solution 50%,,1,0,0,0,BTTL,0,0,0,0,0,50%,1,BTTL,$0.00
+6,DiaGel Kitten/Cat<6 lb 0.5mL,,1,0,0,0,EACH,0,0,0,0,0,,6,EACH,$72.03
+6,DiaGel Large Dog Over 60lb 5mL,,1,0,0,0,EACH,0,0,0,0,0,,6,EACH,$91.11
+6,DiaGel Medium Dog 31-60lb 3mL,,1,0,0,0,EACH,0,0,0,0,0,,6,EACH,$84.75
+6,DiaGel Small Dog 1-30lb 1mL,,1,0,0,0,EACH,0,0,0,0,0,,6,EACH,$77.27
+4,Diazepam 10mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,10 mg,100,TAB,$2.77
+4,Diazepam 2mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,2 mg,100,TAB,$3.32
+4,Diazepam 5mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,5 mg,100,TAB,$0.00
+3,Diazepam 5mg/ml Inj ,Ziapam,1,1,0,0,ML,1,1,1,1,1,2 ml,6,VIAL,$9.80
+4,Diazepam Rectal Gel 5mg/ml,,1,0,0,0,SYR,1,1,1,1,1,5 mg,1,SYR,$5.10
+6,Diclofenac 0.1% Ophth Sol ,,1,0,0,0,EACH,0,0,0,0,0,0.10%,1,EACH,$6.95
+6,Diclofenac Gel 1% 100gm,,1,0,0,0,EACH,0,0,0,0,0,1%,1,EACH,$10.76
+6,Difluprednate 0.5% Ophth Sol,,1,0,0,0,BTTL,0,0,0,0,0,0.50%,1,BTTL,$0.00
+0,Digital Thermometer,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$5.14
+6,Digoxin 125mcg Tablet,,1,1,0,0,TAB,0,0,0,0,0,125 mcg,100,TAB,$4.85
+6,Digoxin 250mcg Tablet,,1,1,0,0,TAB,0,0,0,0,0,250 mcg,100,TAB,$5.64
+6,Diltiazem 30mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,30 mg,100,TAB,$0.21
+6,Diltiazem ER 180 mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,180 mg,100,CAP,$81.04
+6,Dioctyl Sodium Sulf 125mg Fel Enema,,1,0,0,0,EACH,0,0,0,0,0,125 mg,1,EACH,$3.84
+6,Diphenhydramine  2.5mg/mL Oral,,1,1,0,0,ML,0,0,0,0,0,2.5 mg,473,ML,$2.77
+6,Diphenhydramine 12.5mg/5mL Oral,,1,1,0,0,ML,0,0,0,0,0,12.5 mg,120,ML,$1.54
+6,Diphenhydramine 25mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,25 mg,1000,CAP,$15.96
+6,Diphenhydramine 50mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,50 mg,1000,CAP,$16.20
+6,Diphenhydramine 50mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,50 mg,25,ML,$0.00
+6,Dobutamine 12.5mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,12.5 mg,1,ML,$32.00
+6,Dopamine 40mg/mL Inj,,1,0,0,0,VIAL,0,0,0,0,0,40 mg,1,VIAL,$3.19
+6,Dorzolamide 2% Ophth Sol,,1,0,0,0,BTTL,0,0,0,0,0,2%,1,BTTL,$9.52
+6,Dorzolamide/Timolol 2% Ophth,,1,0,0,0,BTTL,0,0,0,0,0,2%,1,BTTL,$7.03
+6,Douxo Calm Gel Spray 2oz,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$14.27
+6,Douxo Calm Micro-Emulsion Spray ,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$18.80
+6,Douxo Chlorhexidine 3% Pads 30ct,,1,0,0,0,BTTL,0,0,0,0,0,3%,1,BTTL,$9.84
+6,Douxo Micellar Solution 8oz,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$13.89
+6,Douxo S3 Calm Mousse - 150 mL,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$18.03
+6,Douxo S3 Calm Mousse (5 oz),,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$18.03
+6,DOUXO S3 PYO Chlorhex Shampoo 200mL,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$16.80
+6,Douxo S3 PYO Mousse (5.1oz),,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$18.03
+6,Douxo S3 Pyo Mousse150ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$9.14
+6,DOUXO S3 PYO SHAMP 200ML,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$17.50
+6,Douxo S3 Pyo Shampoo 16.9oz,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Douxo S3 PYO Wipes 30ct,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$13.64
+6,Doxapram 20mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,20 mg,5,ML,$13.37
+6,Doxapram 20mg/mL Inj,Dopram,1,1,0,0,ML,0,0,0,0,0,20 mg,20,ML,$55.43
+6,Doxepin 10mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,10 mg,100,CAP,$4.62
+6,Doxorubicin 2mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,2mg,100,ML,$56.44
+6,Doxycycline 100mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,100 mg,50,CAP,$10.90
+6,Doxycycline 100mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,100 mg,100,ML,$18.74
+6,Doxycycline 100mg/mL Oral,,1,1,0,0,ML,0,0,0,0,0,100 mg,60,ML,$0.00
+6,Doxycycline 20 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,20 mg,100,TAB,$6.65
+6,Doxycycline 50 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,100,TAB,$13.74
+6,Doxycycline 50mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,50 mg,50,CAP,$4.43
+6,Doxycycline 5mg/ml Oral ,,1,0,0,0,EACH,0,0,0,0,0,5mg,1,EACH,$0.00
+6,Droncit 50mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,50,TAB,$80.29
+6,Droncit Spot On 1/2.5kg 0.5ml each,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$4.16
+6,Drontal Cats & Kittens,,1,1,0,0,TAB,0,0,0,0,0,,50,TAB,$235.23
+6,Drontal Plus 22.7mg/Small Dog,,1,1,0,0,TAB,0,0,0,0,0,22.7 mg,50,TAB,$192.97
+6,Drontal Puppy susp 1ml/kg 50ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$9.07
+6,Drum 20g,,1,0,0,0,EACH,0,0,0,0,0,20 g,1,EACH,$16.71
+6,Duralactin Fel L-Lysine PSTE 32.5ml,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$7.91
+2,Duramorph 1mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,1 mg,10,ML,$292.66
+6,Ear Cleansing Solution 8oz,,1,0,0,0,EACH,0,0,0,0,0,,1,EA,$3.25
+6,EasOtic Suspension 10mL ,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+0,Eaze-Off Aerosol Spray,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$48.38
+6,Eazi Breed CIDR- Bovine,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$24.85
+0,E-collars 12.5cm,Genia Velfast,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$7.30
+6,ELASTRATOR BANDS LATEX J36B,,1,0,0,0,EACH,0,0,0,0,0,,1,EACG,$0.00
+6,Elura 20mg/mL Oral,,1,1,0,0,BTTL,0,0,0,0,0,20 mg,1,BTTL,$0.00
+6,Emeraid IC Carnivore,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$9.65
+6,EMLA cream 30g,,1,0,0,0,TUBE,0,0,0,0,0,30 g,1,TUBE,$19.73
+6,Enalapril 10 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,10 mg,100,TAB,$4.19
+6,Enalapril 2.5 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,2.5 mg,100,TAB,$3.22
+6,Enalapril 20 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,20 mg,100,TAB,$5.40
+6,Enalapril 5 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,5 mg,100,TAB,$4.06
+6,Encephalomyelitis Vaccine,,1,0,0,0,DOSE,0,0,0,0,0,,10,DOSE,$12.68
+6,Endosorb Anti-Diarrheal 50c,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Endovac 50ds,,1,0,0,0,DOSE,0,0,0,0,0,,1,BTTL,$80.33
+6,ENEMA PET (DSS) PET EMA 12CC,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Enisyl-F Oral Paste for Cats 100ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$33.22
+6,Enro/Keto/Triamo (BNT),,1,0,0,0,SYR,0,0,0,0,0,,1,SYR,$10.00
+6,Enrofloxacin  Otic 15ml,Baytril,1,0,0,0,EACH,0,0,0,0,0,,12,EACH,$75.60
+6,Enrofloxacin 10% Oral ,Baytril,1,1,0,0,ML,0,0,0,0,0,10%,100,ML,$54.81
+6,Enrofloxacin 100mg/ml Inj,Baytril,1,1,0,0,ML,0,0,0,0,0,100 mg,100,ML,$0.00
+6,Enrofloxacin 136mg Tablet,Baytril,1,1,0,0,TAB,0,0,0,0,0,136 mg,50,TAB,$0.00
+6,Enrofloxacin 150mg  Tablet,Baytril,1,1,0,0,TAB,0,0,0,0,0,150 mg,100,TAB,$3.87
+6,Enrofloxacin 15mg Tablet,Baytril,1,1,0,0,TAB,0,0,0,0,0,15 mg,100,TAB,$68.72
+6,Enrofloxacin 2.5% Oral Solution,Baytril,1,1,0,0,ML,0,0,0,0,0,2.50%,100,TAB,$33.96
+6,Enrofloxacin 22.7mg Tablet,Baytril,1,1,0,0,TAB,0,0,0,0,0,22.7 mg,100,TAB,$0.00
+6,Enrofloxacin 22.7mg/ml Inj,Baytril,1,1,0,0,ML,0,0,0,0,0,22.7mg,50,ML,$124.46
+6,Enrofloxacin 25mg/ml Inj ,Baytril,1,1,0,0,ML,0,0,0,0,0,25 mg,50,ML,$19.10
+6,Enrofloxacin 50mg Tablet,Baytril,1,1,0,0,TAB,0,0,0,0,0,50 mg,100,TAB,$136.01
+6,Enrofloxacin 50mg/ml Inj 50ml,Baytril,1,1,0,0,ML,0,0,0,0,0,50 mg,50,ML,$92.36
+6,Enrofloxacin 68mg Tablet,"Baytril, Enroquin",1,1,0,0,TAB,0,0,0,0,0,68 mg,180,TAB,$53.08
+6,Enrofloxacin Otic 15ml ,Baytril,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$21.65
+6,Entero AID + GI 15mL (Per syringe),,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$13.67
+6,Entero AID + GI 30mL (Per syringe),,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$18.60
+6,Entervene D 10DS,,1,0,0,0,DOSE,0,0,0,0,0,,1,EACH,$14.26
+6,EPI OTIC ADVANCED 8 OZ,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$14.26
+0,Epidural - Spinal Needle 22gx1.5,,1,0,0,0,EACH,0,0,0,0,0,,1,BOX,$0.00
+6,Epinephrine Inj 1:1000 50mL,,1,1,0,0,ML,0,0,0,0,0,,50,ML,$1.36
+6,Epiotic ear cleaner 4oz,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$4.24
+6,Eprinex 10L,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$450.00
+6,EQshield spray 16oz,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$20.98
+6,Equine BlueLite 6lb,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Equine Coli Endotox,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Equisul-SDT 560ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$23.83
+6,Ermidra shampoo 250ml bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$12.99
+6,Ermidra spray 300ml bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$12.99
+6,Erythromycin 0.5% Ophth Ointment,,1,0,0,0,BTTL,0,0,0,0,0,0.50%,1,BTTL,$8.96
+6,Erythromycin 200mg/ml Inj ,,1,1,0,0,ML,0,0,0,0,0,,100,ML,$93.67
+6,Erythromycin 500mg Inj ,,1,0,0,0,VIAL,0,0,0,0,0,500 mg,1,VIAL,$0.00
+6,Erythromycin Estolate  20mg/mL Oral,,1,1,0,0,ML,0,0,0,0,0,20 mg,100,ML,$0.26
+6,Esomeprazole Magnesium 40 mg DR Cap,,1,0,0,0,CAP,0,0,0,0,0,40 mg,30,CAP,$7.96
+6,Estriol 30ct,Incurin,1,0,0,0,BOX,0,0,0,0,0,,12,BOX,$186.00
+6,EstroPlan,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$56.00
+6,Estrumate,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$84.54
+6,ETO2 BIOLOGICAL INDICATOR B25,,1,0,0,0,EACH,0,0,0,0,0,,25,EACH,$83.85
+6,Etomidate 2mg/ml Inj 20ML,,1,1,0,0,ML,0,0,0,0,0,2mg,20,ML,$48.55
+6,Excenel RTU 100 ml,,1,0,0,0,CASE,0,0,0,0,0,,1,CASE,$62.08
+6,Exocin eye drops 5ml,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$4.29
+6,Eye Lavage Kit/SPL,,1,0,0,0,KIT,0,0,0,0,0,,1,KIT,$0.00
+0,E-Z Scrub Surgical Scrub Hand Brush,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+6,F10 Barrier Oint+Insecticide  25g,,1,0,0,0,TUBE,0,0,0,0,0,25 g,1,TUBE,$7.39
+6,F10 Barrier ointment 100g,,1,0,0,0,TUBE,0,0,0,0,0,100 g,1,TUBE,$9.07
+6,F10 Wound spray/insecticide (100ml),,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$9.80
+6,F2A1 SALMONELLA SRP 50DS,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$164.85
+6,Factrel Inj 20ML,,1,1,0,0,ML,0,0,0,0,0,,1,EACG,$0.00
+6,Famciclovir 125 mg/mL Oral,,1,1,0,0,ML,0,0,0,0,0,125 mg,120,ML,$0.00
+6,Famciclovir 62.5 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,62.5 mg,100,TAB,$0.00
+6,Famotidine 10mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,10 mg,30,TAB,$0.00
+6,Famotidine 10mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,10 mg,20,ML,$1.99
+6,Famotidine 20 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,20 mg,100,TAB,$5.14
+6,Famotidine 40 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,40 mg,100,TAB,$7.45
+6,Famotodine 5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,5 mg,100,TAB,$25.20
+6,Felimazole 1.25mg Tablet (100),,1,1,0,0,TAB,0,0,0,0,0,1.25 mg,100,TAB,$15.64
+6,Felimazole 2.5mg 100ct Tablet,,1,1,0,0,TAB,0,0,0,0,0,2.5 mg,100,TAB,$11.63
+6,Feline Aerosol Chamber Inhal,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$35.61
+6,Feline Blood Typing KIT,,1,0,0,0,TEST,0,0,0,0,0,,1,TEST,$25.00
+6,Felv/FIV Rapid Test (FF) 10 Pack,,1,0,0,1,EACH,0,0,0,0,0,,10,EA,$187.20
+6,Fenbendazole Granules 22.2% powder,,1,1,0,0,GM,0,0,0,0,0,22.20%,454,GM,$403.35
+6,Fenofibrate 48 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,48 mg,90,TAB,$12.30
+2,Fentanyl 100mcg/hr Patch ,,1,0,0,0,PATCH,1,1,1,1,1,100 mcg,5,PATCH,$0.00
+2,Fentanyl 12mcg/hr Patch,,1,0,0,0,PATCH,1,1,1,1,1,12 mcg,5,PATCH,$2.50
+2,Fentanyl 25mcg/hr Patch,,1,0,0,0,PATCH,1,1,1,1,1,25 mcg,5,PATCH,$3.99
+2,Fentanyl 50mcg/hr Patch,,1,0,0,0,PATCH,1,1,1,1,1,50 mcg,5,PATCH,$7.53
+2,Fentanyl 75mcg/hr Patch,,1,0,0,0,PATCH,1,1,1,1,1,75 mcg,5,PATCH,$10.63
+2,Fentanyl Citrate 50mcg/mL Inj,,1,1,0,0,ML,1,1,1,1,1,50 mcg,50,ML,$3.22
+6,Ferrous Gluconate 324 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,324 mg,100,TAB,$8.45
+6,Fight Strong Uterine Balance 130ct,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$249.35
+6,FiltaClear cream 50g Tube,,1,0,0,0,TUBE,0,0,0,0,0,50 g,1,TUBE,$0.00
+6,Firocoxib 227mg Chewable Tablet,,1,1,0,0,TAB,0,0,0,0,0,227 mg,60,TAB,$100.06
+6,Firocoxib 57mg  Tablet 180ct,Equioxx,1,1,0,0,TAB,0,0,0,0,0,57 mg,180,TAB,$1.69
+6,Firocoxib 57mg Chewable Tablet,,1,1,0,0,TAB,0,0,0,0,0,57 mg,60,TAB,$44.10
+6,First Defense,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Fish Oil 1000mg Capsule 60ct,,1,0,0,0,BTTL,0,0,0,0,0,1000 mg,1,BTTL,$9.37
+6,Fish Oil 2000mg Capsule 120ct,,1,0,0,0,BTTL,0,0,0,0,0,2000 mg,1,BTTL,$41.65
+6,Fish Oil 600mg Capsule 120ct,,1,0,0,0,BTTL,0,0,0,0,0,600 mg,1,BTTL,$26.70
+6,FIV/Felv/Fel Heartworm Snap Test,,1,0,0,0,TEST,0,0,0,0,0,,30,TEST,$767.70
+6,Flamazine 500g cream ,,1,0,0,0,TUBE,0,0,0,0,0,500 g,1,TUBE,$29.99
+6,Flamazine 50g cream,,1,0,0,0,TUBE,0,0,0,0,0,50 g,1,TUBE,$7.03
+6,Flea spray 500ml,Indorex,1,0,0,0,BTTL,0,0,0,0,0,,12,BTTL,$89.94
+6,Flovent Inhaler 250mcg,,1,0,0,0,EACH,0,0,0,0,0,250 mcg,1,EACH,$0.76
+6,Fluconazole 100mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,100 mg,30,TAB,$15.92
+6,Fluconazole 10mg/mL Oral ,,1,1,0,0,BTTL,0,0,0,0,0,10 mg,1,BTTL,$7.13
+6,Fluconazole 150mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,150 mg,12,TAB,$20.63
+6,Fluconazole 2 mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,2 mg,100,ML,$217.93
+6,Fluconazole 200mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,200 mg,30,TAB,$21.12
+6,Fluconazole 50 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,30,TAB,$7.82
+6,Fludrocortisone 0.1mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,0.1 mg,100,TAB,$23.26
+6,Flumazenil 0.1mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,0.1 mg,5,ML,$7.34
+6,Flunixin Meglumine 250ml Bottle,Banamine,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$48.33
+6,Flunixin Meglumine Paste 1500mg tb,,1,0,0,0,TUBE,0,0,0,0,0,1500 mg,1,TUBE,$31.84
+6,Flunixin Meglumine Pour-On,Banamine,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Flunixin Meglumine Pour-On 100ml,Banamine,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$229.49
+6,Flunixon 100mL ,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$34.49
+6,Fluodrop 0.5% Solu 0.4ml Per Vial,,1,0,0,0,VIAL,0,0,0,0,0,0.50%,10,VIAL,$8.06
+6,Fluoxetine 20mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,20 mg,100,CAP,$2.30
+6,Fluoxetine 30mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,30 mg,30,CAP,$0.00
+6,Fluoxetine 32 mg ,Reconcile,1,0,0,0,CAP,0,0,0,0,0,32 mg,30,CAP,$0.00
+6,Flurbiprofen 0.03% Ophth Soln,,1,0,0,0,BTTL,0,0,0,0,0,0.03%,1,BTTL,$20.62
+6,Fluticasone Propionate 110mcg Inhal,,1,0,0,0,EACH,0,0,0,0,0,110 mcg,1,EACH,$178.93
+6,Forbid Packet,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+6,Fortekor flavour 20mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,20 mg,28,TAB,$52.29
+6,Fortekor palatable 2.5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,2.5 mg,28,TAB,$15.08
+6,Frontline 500mL Bottle,Frontline,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$96.29
+6,Frontline Gold 23-44lbs Per Dose,Frontline,1,0,0,0,DOSE,0,0,0,0,0,,6,DOSE,$216.18
+6,Frontline Spray 250ml Bottle,Frontline,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$24.88
+6,Frunevetmab  7mg/ml Inj,Solensia,1,1,0,0,ML,0,0,0,0,0,7mg,2,ML,$57.20
+6,Frusol solution 40mg/5ml ,,1,1,0,0,ML,0,0,0,0,0,40 mg,150,ML,$30.95
+6,Furosemide 10mg/mL Oral,Lasix,1,0,0,0,BTTL,0,0,0,0,0,10 mg,1,BTTL,$5.17
+6,Furosemide 12.5mg Tablet,Lasix,1,1,0,0,TAB,0,0,0,0,0,12.5 mg,500,TAB,$70.66
+6,Furosemide 20mg Tablet,Lasix,1,1,0,0,TAB,0,0,0,0,0,20 mg,1000,TAB,$17.28
+6,Furosemide 40mg Tablet,Lasix,1,1,0,0,TAB,0,0,0,0,0,40 mg,100,TAB,$3.37
+6,Furosemide 50 mg/ml Inj,Lasix,1,1,0,0,ML,0,0,0,0,0,50 mg,50,ML,$20.12
+6,Furosemide 80 mg Tablet,Lasix,1,1,0,0,TAB,0,0,0,0,0,80 mg,500,TAB,$15.28
+6,FVRCP Vaccine,,1,0,0,0,DOSE,0,0,0,0,0,,25,DOSE,$148.75
+5,Gabapentin  60mg/ml Oral,,1,1,0,0,ML,1,1,1,1,1,60 mg,50,ML,$0.00
+5,Gabapentin 100mg Capsule,,1,0,0,0,CAP,1,1,1,1,1,100 mg,100,CAP,$0.00
+5,Gabapentin 100mg/ml Oral,,1,1,0,0,ML,1,1,1,1,1,100 mg,480,ML,$0.00
+5,Gabapentin 25mg mg Tiny Tabs,,1,1,0,0,TAB,1,1,1,1,1,25 mg,100,TAB,$0.00
+5,Gabapentin 300mg Capsule,,1,0,0,0,CAP,1,1,1,1,1,300 mg,100,CAP,$0.00
+5,Gabapentin 300mg/ml Oral,,1,1,0,0,ML,1,1,1,1,1,300 mg,473,BTTL,$0.00
+5,Gabapentin 400mg per capsule,,1,0,0,0,CAP,1,1,1,1,1,400 mg,100,CAP,$15.41
+5,Gabapentin 50mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,50 mg,100,TAB,$38.70
+5,Gabapentin 50mg/ml Oral ,,1,1,0,0,ML,1,1,1,1,1,50 mg,473,ML,$46.55
+5,Gabapentin 600mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,600 mg,100,TAB,$0.00
+5,Gabapentin 800mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,800 mg,100,TAB,$0.00
+6,Galastop oral solution 15ml bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$34.64
+6,Galastop oral solution 7ml bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$17.51
+6,Gastrogard Syringe,Omeprazole,1,0,0,0,TUBE ,0,0,0,0,0,,1,TUBE,$2.09
+6,Gemfibrozil 600 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,600 mg,60,TAB,$5.53
+6,Genesis Topical Spray,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$17.42
+6,Genone Topical Spray 60ML,,1,0,0,0,EACH,0,0,0,0,0,,1,EACG,$3.62
+6,Genta/Mometasome/Clotrim Otic7.5GM,,1,0,0,0,BTTL,0,0,0,0,0,7.5 g,1,BTTL,$14.61
+6,Gentacalm 120mL,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$12.28
+6,Gentacalm 60mL  0.57 mg/per,,1,0,0,0,EACH,0,0,0,0,0,0.57 mg,1,EACG,$7.18
+6,Gentamicin 100 mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,100 mg,100,ML,$25.46
+6,Gentamicin Opht Oint .3% 3.5gm tube,,1,0,0,0,EACH,0,0,0,0,0,3%,1,EACH,$30.70
+6,Gentamicin Ophth Sol,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$2.21
+6,Gentamicin Sulfate Sol .3% 5ml ,,1,0,0,0,EACH,0,0,0,0,0,3%,1,EACH,$4.42
+6,Gentaspray 240ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$11.80
+6,Gentaspray 60ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$3.65
+6,Gentaved Topical Spray 120 mL,,1,0,0,0,EACH,0,0,0,0,0,,1,EACG,$5.40
+6,Glo Spray(Flo Orange) 500mL ,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$9.14
+6,Glucagon 1mg Vial,,1,0,0,0,BTTL,0,0,0,0,0,1 mg,1,BTTL,$0.00
+6,Glucogel 25g per syringe (3),,1,0,0,0,SYR,0,0,0,0,0,25 g,3,SYR,$13.63
+6,Glucose 50% Inj ,,1,1,0,0,ML,0,0,0,0,0,50%,200,ML,$37.32
+6,Glycopyrrolate 0.2 mg/mL Inj,,1,0,0,0,BTTL,0,0,0,0,0,0.2 mg,1,BTTL,$20.34
+6,Gomega Liquid 150ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Gonadorelin 43mg/ml,Fertagyl,1,0,0,0,BTTL,0,0,0,0,0,43mg,1,BTTL,$61.18
+6,Gram Stain Kit (4 x 250mL),Jorvet,1,0,0,0,EACH ,0,0,0,0,0,,1,EACH,$0.00
+6,Grapiprant Tabs 100mg Tablet,Galliprant,1,1,0,0,TAB,0,0,0,0,0,100 mg,30,TAB,$48.11
+6,Grapiprant Tabs 20mg Tablet,Galliprant,1,1,0,0,TAB,0,0,0,0,0,20 mg,30,TAB,$16.27
+6,Grapiprant Tabs 60mg Tablet,Galliprant,1,1,0,0,TAB,0,0,0,0,0,60 mg,30,TAB,$32.20
+6,Heparin 1000IU/ML Inj 30ml,,1,0,0,0,VIAL,0,0,0,0,0,1000IU,1,VIAL,$5.63
+6,Heparin 100lu/ml 2ml Vial Per Vial,,1,0,0,0,VIAL,0,0,0,0,0,100IU,10,VIAL,$26.06
+6,Heparin 50 units/ml Inj. in 5% Dex,,1,0,0,0,EACH,0,0,0,0,0,5%,1,EACH,$0.01
+6,Heparin Sodium vial (1000u/ml) 5ml ,,1,0,0,0,VIAL,0,0,0,0,0,1000IU,10,VIAL,$57.12
+6,Hepato liquid 120ml bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$19.77
+6,Heska LH Lyse 90mL Elm HT5 Analyze,,1,0,0,0,BTTL,0,0,0,0,1,,1,BTTL,$171.00
+6,Hexacon 5L,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$135.99
+6,Hexarinse 237ml bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$6.99
+6,Hibiwash 4% 125ml,,1,0,0,0,BTTL,0,0,0,0,0,4%,1,BTTL,$0.00
+6,Honey Wound Dressing 15g,,1,0,0,0,EACH,0,0,0,0,0,15 g,1,EACH,$6.36
+2,Hydrocodone 1mg/mL Oral,,1,1,0,0,ML,1,1,1,1,1,1 mg,500,ML,$0.20
+2,Hydrocodone 5mg/1.5mg Tablet,,1,1,0,0,TAB,1,1,1,1,0,1.5 mg,100,TAB,$0.00
+2,Hydrocodone/Chlorphen 10mg/5ml,,1,1,0,0,ML,1,1,1,1,0,10 mg,115,ML,$51.64
+6,Hydrogen Peroxide 3% 16oz,,1,0,0,0,EACH ,0,0,0,0,0,3%,1,EACH,$0.00
+6,Hydrolyzed Milk Protein 225 mg Cap,,1,0,0,0,CAP,0,0,0,0,0,225 mg,14,CAP,$18.28
+6,Hydrolyzed Milk Protein 450 mg Cap,,1,0,0,0,CAP,0,0,0,0,0,450 mg,14,CAP,$18.28
+2,Hydromorphone 2mg/ml Inj 20ml,,1,1,0,0,ML,1,1,1,1,1,20 ml,20,ML,$30.94
+2,HYDROmorphone 8 mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,8 mg,100,TAB,$61.57
+6,Hydroxyzine 25mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,25 mg,100,TAB,$2.07
+6,Hypertonic Saline 7.2% Inj ,,1,1,0,0,ML,0,0,0,0,0,7.20%,1000,ML,$0.02
+0,I- Drop Vet Gel PF 0.30% ,,1,0,0,0,EACH ,0,0,0,0,0,0.30%,1,EACH,$22.86
+0,IDEXX Albumin,,1,0,0,1,TEST,0,0,0,0,0,,12,TEST,$61.64
+0,IDEXX Catalyst ALKP,,1,0,0,1,TEST,0,0,0,0,0,,12,TEST,$7.72
+0,IDEXX Creatinine,,1,0,0,1,TEST,0,0,0,0,0,,12,TEST,$63.48
+0,IDEXX SDMA,,1,0,0,1,TEST,0,0,0,0,0,,12,TEST,$0.00
+0,IDEXX Snap Feline proBNP Test,,1,0,0,1,TEST,0,0,0,0,0,,10,TEST,$129.90
+0,IDEXX SNAP fPL,,1,0,0,1,TEST,0,0,0,0,0,,10,TEST,$7.72
+6,Ilunocitinib 15mg Tablet,Zenrelia,1,1,0,0,TAB,0,0,0,0,0,15 mg,90,TAB,$89.13
+6,Ilunocitinib 4.8mg Tablet,Zenrelia,1,1,0,0,TAB,0,0,0,0,0,4.8 mg,90,TAB,$0.00
+6,Ilunocitinib 6.4mg Tablet,Zenrelia,1,1,0,0,TAB,0,0,0,0,0,6.4 mg,90,TAB,$0.00
+6,Ilunocitinib 8.5mg Tablet,Zenrelia,1,1,0,0,TAB,0,0,0,0,0,8.5 mg,90,TAB,$0.00
+6,Imiquimod 5% Cream 24pkt,,1,0,0,0,BOX,0,0,0,0,0,5%,1,BOX,$1.58
+6,Inforce 3  Vaccine 25 x 2ml,,1,0,0,0,DOSE,0,0,0,0,0,,25,DOSE,$55.50
+6,Insulin 100u/ml,Humulin N,1,1,0,1,UNIT,0,0,0,0,0,100u,1000,UNIT,$55.18
+6,Intensive Care Carnivore 100g,,1,0,0,0,BAG,0,0,0,0,0,100 g,1,BAG,$22.50
+6,Intensive Care HDN Feline 400g,,1,0,0,0,BAG,0,0,0,0,0,400 g,1,BAG,$22.50
+6,Intralipid 20% 250ml,,1,0,0,0,EACH,0,0,0,0,0,20%,1,EACH,$53.85
+6,Intubeaze spray (10ml),,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$27.78
+6,Iohexol 240 mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,240 mg,50,ML,$45.84
+6,Ipakitine Powder 180g pot,,1,0,0,0,TUB,0,0,0,0,0,180 g,1,TUB ,$24.18
+6,Isaderm Gel 30g,,1,0,0,0,TUBE,0,0,0,0,0,30 g,1,TUBE,$10.02
+6,IsadermGel 15g,,1,0,0,0,TUBE,0,0,0,0,0,15g,1,TUBE,$20.08
+6,Isemid 1mg per Tablet (90),,1,1,0,0,TAB,0,0,0,0,0,1 mg,90,TAB,$26.51
+6,Isemid 4mg per Tablet (90),,1,1,0,0,TAB,0,0,0,0,0,4 mg,90,TAB,$48.20
+6,ISOFLURANE 250ML BTTL,,1,1,0,0,ML,0,0,0,0,0,,250,ML,$27.85
+6,Isopropyl Alcohol 70% 32oz bottle,,1,0,0,0,BTTL,0,0,0,0,0,70%,1,BTTL,$3.54
+6,Isopto carpine 2% 15ml,,1,0,0,0,BTTL,0,0,0,0,0,2%,1,BTTL,$8.20
+6,Itrafungol Oral Solution,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$46.79
+6,Ivermectin 1% Inj,,1,1,0,0,ML,0,0,0,0,0,1%,500,ML,$0.26
+6,Ivermectin drops 1% 5ml,,1,1,0,0,BTTL,0,0,0,0,0,1%,1,BTTL,$5.15
+6,Ivermectin Paste Dewormer 1.87%,,1,0,0,0,EACH,0,0,0,0,0,1.87%,1,EACH,$5.09
+0,J Lube 10oz,Jorgensen,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,J63 IV Set Simplex Tube Vent,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$9.00
+6,JT Great Saussurea Capsules 0.2g,,1,0,0,0,CAP ,0,0,0,0,0,0.2 g,50,CAP ,$6.13
+6,JT Great Saussurea Capsules 0.5g,,1,0,0,0,CAP,0,0,0,0,0,0.5 g,50,CAP,$6.13
+6,Katalax 20g tube,,1,0,0,0,TUBE,0,0,0,0,0,20 g,1,TUBE,$18.30
+6,Kesium chew 200/50mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,200/50 mg,240,TAB,$0.00
+6,Kesium chew 40/10mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,40/10 mg,240,TAB,$28.73
+6,Kesium chew 50/12.5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50/12.5 mg,240,TAB,$0.00
+6,Kesium chew 500/125mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,500/125 mg,96,TAB,$0.00
+3,Ketamine 100mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,100 mg,10,ML,$5.69
+6,Keto Pro Oral Gel 300cc,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$0.00
+6,Ketochlor Shampoo,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$16.39
+6,Ketoconazole 200 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,,100,TAB,$29.63
+6,Ketoprofen 100mg/ml Inj,Ketofen,1,1,0,0,ML,0,0,0,0,0,100mg,50,ML,$119.80
+6,Ketorolac 0.5% Ophth Soln 10mL,,1,0,0,0,BTTL,0,0,0,0,0,0.50%,1,BTTL,$0.00
+6,Ketorolac 0.5% Ophth Soln 5mL,,1,0,0,0,EACH,0,0,0,0,0,0.50%,1,EACH,$49.20
+6,Ketotifen Fumarate 0.035% Ophth Sol,,1,0,0,0,BTTL,0,0,0,0,0,0.04%,1,BTTL,$0.00
+0,Kitten Milk Replacer 325ml/ 11oz,,1,0,0,0,CAN,0,0,0,0,0,,1,CAN,$6.38
+0,Kitten Milk Replacer Pwdr 170g/6oz,,1,0,0,0,CAN,0,0,0,0,0,170 g,1,CAN,$16.07
+0,Lactated Ringers 1000ml,Vetivex,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$5.92
+0,Lactated Ringers 5000ml,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$26.52
+0,Lactated Ringers Fluids Bag 24X250ML,,1,0,0,0,BAG,0,0,0,0,0,,24,BAG,$136.47
+0,Lactated Ringers Irrigation 3000ml ,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$18.21
+6,Lactulose 10G/15ml Oral 473ml,,1,0,0,0,BTTL,0,0,0,0,0,667mg,1,BTTL,$8.04
+6,Latanoprost 0.005% Ophth Soln 2.5ml,,1,0,0,0,EACH,0,0,0,0,0,0.01%,1,EACH,$38.42
+6,Laxatone Oral Gel 4.25oz,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$10.96
+6,LEPTO SHIELD 5 50DS,,1,0,0,1,EACH,0,0,0,0,0,,1,EACG,$0.00
+6,Lepto4 Vaccine 1ml (1 Yr) ,Nobivac,1,0,0,1,DOSE,0,0,0,0,0,,25,DOSE,$10.11
+6,Levetiracetam 100 mg/mL Inj,,1,0,0,0,VIAL,0,0,0,0,0,100 mg,10,VIAL,$29.04
+6,Levetiracetam 1000 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,1000 mg,120,TAB,$0.00
+6,Levetiracetam 250 mg Tablet,Keppra,1,1,0,0,TAB,0,0,0,0,0,250 mg,120,TAB,$9.31
+6,Levetiracetam 500 mg Tablet,Keppra,1,1,0,0,TAB,0,0,0,0,0,500 mg,120,TAB,$11.06
+6,Levetiracetam 500mg/5mL Inj,Keppra,1,1,0,0,ML,0,0,0,0,0,500 mg,50,ML,$0.00
+6,Levetiracetam 750 mg Tablet,Keppa,1,1,0,0,TAB,0,0,0,0,0,750 mg,120,TAB,$15.20
+6,Levothyroxine 175 mcg Tablet,,1,1,0,0,TAB,0,0,0,0,0,175 mcg,100,TAB,$21.32
+6,Levothyroxine 200mcg Tablet,,1,1,0,0,TAB,0,0,0,0,0,200 mcg,100,TAB,$26.79
+6,Levothyroxine 75 mcg Tablet,,1,1,0,0,TAB,0,0,0,0,0,75 mcg,100,TAB,$23.07
+6,Levothyroxine Sodium .1mg Tablet,Thyrosyn,1,1,0,0,TAB,0,0,0,0,0,.1mg,1000,TAB,$29.97
+6,Levothyroxine Sodium .2mg Tablet,"Thyrosyn, Thyro-Tab",1,1,0,0,TAB,0,0,0,0,0,.2mg,1000,TAB,$44.68
+6,Levothyroxine Sodium .3mg Tablet,"Thyrosyn, Thyro-Tab",1,1,0,0,TAB,0,0,0,0,0,.3mg,1000,TAB,$59.45
+6,Levothyroxine Sodium .5 mg Tablet,Thyrosyn,1,1,0,0,TAB,0,0,0,0,0,.5mg,1000,TAB,$92.26
+6,Levothyroxine Sodium .6mg Tablet,"Thyrosyn, Thyro-Tab",1,1,0,0,TAB,0,0,0,0,0,.6mg,1000,TAB,$100.17
+6,Levothyroxine Sodium .7mg Tablet,"Thyrosyn, Thyro-Tab",1,1,0,0,TAB,0,0,0,0,0,.7mg,1000,TAB,$112.12
+6,Levothyroxine Sodium .8mg Tablet,"Thyrosyn, Thyro-Tab",1,1,0,0,TAB,0,0,0,0,0,.8mg,1000,TAB,$120.38
+6,Levothyroxine Sodium 0.4 mg Tablet,Thyro-Tabs,1,1,0,0,TAB,0,0,0,0,0,0.4 mg,120,TAB,$8.81
+6,Levothyroxine Sodium 0.6 mg Tablet,Thyro-Tabs,1,1,0,0,TAB,0,0,0,0,0,0.6 mg,120,TAB,$11.96
+6,Levothyroxine Sodium 88 mcg Caplet,,1,0,0,0,CAP,0,0,0,0,0,88 mcg,30,CAP,$76.62
+6,Libeo flavour 40mg dog Tablet,,1,1,0,0,TAB,0,0,0,0,0,40 mg,120,TAB,$29.12
+6,Librela 10mg/mL Inj,,1,0,0,1,VIAL,0,0,0,0,0,10 mg,6,VIAL,$226.80
+6,Librela 15mg/ml Inj,,1,0,0,1,VIAL,0,0,0,0,0,15 mg,6,VIAL,$262.10
+6,Librela 20mg/mL Inj,,1,0,0,1,VIAL,0,0,0,0,0,20 mg,6,VIAL,$305.75
+6,Librela 30mg/mL Inj,,1,0,0,1,VIAL,0,0,0,0,0,30 mg,6,VIAL,$339.90
+6,Librela 5mg/mL Inj,,1,0,0,1,VIAL,0,0,0,0,0,5 mg,6,VIAL,$182.70
+6,Lidocaine 2% 20mg/mL Inj ,Lidoject,1,1,0,0,ML,0,0,0,0,0,2%,50,ML,$0.13
+6,Lidocaine 2% Oral Topical Solution,,1,1,0,0,ML,0,0,0,0,0,2%,100,ML,$0.00
+6,Lidocaine HCl Jelly 2%,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$16.26
+6,Lifeline 150 Colostrum Calves 500gm,,1,0,0,0,EACH,0,0,0,0,0,500 g,1,EACG,$50.38
+6,Lignocaine 25mg/g 5% cream ,,1,0,0,0,TUBE,0,0,0,0,0,25 mg,1,TUBE,$0.00
+6,Lincomycin Solu Powder 160/40gm pkt,,1,0,0,0,EACH,0,0,0,0,0,160/40 g,1,EACG,$18.36
+6,Linctol Syrup ,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Liothyronine 25 mcg Tablet,,1,1,0,0,TAB,0,0,0,0,0,25 mcg,90,TAB,$21.85
+6,Liothyronine 5 mcg Tablet,,1,1,0,0,TAB,0,0,0,0,0,5 mcg,90,TAB,$17.94
+6,Liothyronine 50 mcg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mcg,90,TAB,$22.61
+0,Liquid E-Z-Paque,,1,1,0,0,ML,0,0,0,0,0,,355,ML,$7.62
+6,Liquimycin LA 200 INJ 100CC,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,Little Herbert Luer Lock Adapter,,1,0,0,0,EACH,0,0,0,0,0,,1,EACG,$2.07
+6,L-Lysine Powder 100gm,,1,0,0,0,EACH,0,0,0,0,0,100 g,1,EACH,$20.72
+6,Logic oral hygiene gel (70g),,1,0,0,0,TUBE,0,0,0,0,0,70 g,1,TUBE,$7.11
+6,Lokivetmab 10mg Vial,Cytopoint,1,0,0,1,VIAL,0,0,0,0,0,10 mg,10,VIAL,$7.72
+6,Lokivetmab 20mg Vial,Cytopoint,1,0,0,1,VIAL,0,0,0,0,0,20 mg,10,VIAL,$7.72
+6,Lokivetmab 30mg Vial,Cytopoint,1,0,0,1,VIAL,0,0,0,0,0,30 mg,10,VIAL,$7.72
+6,Lokivetmab 40mg Vial,Cytopoint,1,0,0,1,VIAL,0,0,0,0,0,40 mg,10,VIAL,$7.72
+6,Loperamide 2Mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,2 mg,12,CAP,$4.95
+6,Lubrithal Ophth gel 10g,,1,0,0,0,EACH,0,0,0,0,0,10 g,1,EACH,$0.00
+6,Lutalyse 30CC,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Lyme/LeptoVax 4,Duramune,1,0,0,1,DOSE,0,0,0,0,0,,25,DOSE,$457.74
+6,Lysigin 50ds 250ML,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Magnalax Powder 1lb,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Magnesium Sulfate 50% 25g/50mL,,1,1,0,0,ML,0,0,0,0,0,500mg,50,ML,$0.77
+6,Mal-A-Ket Wipes 50ct,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$12.70
+6,Malaseb Shampoo 250ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$15.88
+6,Malazinc Ear Drops,Millpledge,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Mannitol 10% Polyfusor 500ml,,1,0,0,0,BAG,0,0,0,0,0,10%,1,BAG,$0.00
+6,Mannitol 20% Inj,,1,1,0,0,ML,0,0,0,0,0,20%,100,ML,$25.43
+6,Mannitol 25% Inj,,1,1,0,0,ML,0,0,0,0,0,25%,50,ML,$3.65
+6,Manuka Honey 15g tube,,1,0,0,0,TUBE,0,0,0,0,0,15 g,1,TUBE,$6.06
+6,Marbocyl  1% SA Inj per ml,,1,1,0,0,ML,0,0,0,0,0,1%,20,ML,$10.03
+6,Marbofloxacin 100mg,Zeniquin,1,1,0,0,TAB,0,0,0,0,0,100 mg,50,TAB,$238.00
+6,Marbofloxacin 200mg,Zeniquin,1,1,0,0,TAB,0,0,0,0,0,200 mg,50,TAB,$9.84
+6,Marbofloxacin 25mg,Zeniquin,1,1,0,0,TAB,0,0,0,0,0,25 mg,100,TAB,$1.62
+6,Marbofloxacin 50mg,Zeniquin,1,1,0,0,TAB,0,0,0,0,0,50 mg,100,TAB,$264.56
+6,Maropitant 10mg/ml Inj 20ml,Cerenia,1,1,0,0,ML,0,0,0,0,0,10 mg,20,CC,$225.55
+6,Maropitant 16 mg Tablet,Cerenia,1,1,0,0,TAB,0,0,0,0,0,16 mg,60,TAB,$0.00
+6,Maropitant 160 mg Tablet,Cerenia,1,1,0,0,TAB,0,0,0,0,0,160 mg,60,TAB,$0.00
+6,Maropitant 24 mg Tablet,Cerenia,1,1,0,0,TAB,0,0,0,0,0,24 mg,60,TAB,$0.00
+6,Maropitant 50mg/ml Oral,Cerenia,1,1,0,0,ML,0,0,0,0,0,50 mg,30,ML,$115.24
+6,Maropitant 60 mg Tablet,Cerenia,1,1,0,0,TAB,0,0,0,0,0,60 mg,60,TAB,$0.00
+6,Maxi Guard Oral Gel 2oz,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Maxi Guard Oral Wipes,,1,0,0,0,TUB,0,0,0,0,0,,1,TUB,$0.00
+6,Maxi Otic Suspension 30g,,1,0,0,0,BTTL,0,0,0,0,0,30 g,1,BTTL,$32.78
+6,Maxidex eye drops 0.1% 5ml,,1,0,0,0,EACH,0,0,0,0,0,0.10%,1,EACH,$4.52
+6,MAXON no0 GS11 30in 6755-61,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+0,Mayo Dissecting Scis Curved 5.5,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Meclizine 12.5 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,12.5 mg,100,TAB,$3.13
+6,Meclizine 25 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,25 mg,100,TAB,$3.54
+6,Meclizine 25mg Chew Tab,,1,1,0,0,TAB,0,0,0,0,0,25 mg,100,TAB,$3.32
+6,Medetomidine/Vatinoxan 0.5mg/mL Inj,ZenAlpha,1,1,0,0,ML,0,0,0,0,0,0.5 mg,10,ML,$123.38
+0,Medipaw Boot Small,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$23.50
+6,Megestrol Acetate 40 mg/mL Oral Sus,,1,1,0,0,ML,0,0,0,0,0,40 mg,240,ML,$25.19
+6,Melarsomine 25mg/mL Inj,Diroban,1,1,0,0,ML,0,0,0,0,0,25 mg,10,ML,$0.00
+6,Melatonin 3mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,3 mg,180,TAB,$0.04
+6,Meloxicam 1.5mg/ml Inj,Metacam,1,0,0,0,BTTL,0,0,0,0,0,1.5 mg,1,BTTL,$48.99
+6,Meloxicam 1.5mg/ml Susp,Metacam,1,0,0,0,BTTL,0,0,0,0,0,1.5 mg,2,BTTL,$80.84
+6,Meloxicam 15 mg Tablet,Metacam,1,1,0,0,TAB,0,0,0,0,0,15 mg,100,TAB,$2.26
+6,Meloxicam 1Mg Tablet,Metacam,1,1,0,0,TAB,0,0,0,0,0,1 mg,84,TAB,$65.99
+6,Meloxicam 2.5Mg Tablet,Metacam,1,1,0,0,TAB,0,0,0,0,0,2.5 mg,84,TAB,$127.49
+6,Meloxicam 5mg/ml Inj,Metacam,1,1,0,0,ML,0,0,0,0,0,5mg,20,ML,$52.95
+6,Meloxicam 7.5 mg Tablet,Metacam,1,1,0,0,TAB,0,0,0,0,0,7.5 mg,100,TAB,$1.59
+6,Meloxicam Chewable 1mg,Metacam,1,1,0,0,TAB,0,0,0,0,0,1 mg,84,TAB,$0.72
+6,Metamizole 500mg/mL Inj,Dipyrone,1,1,0,0,ML,0,0,0,0,0,500mg,100,ML,$0.61
+6,Metformin 1000 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,1000 mg,100,TAB,$2.51
+2,Methadone 10mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,10 mg,20,ML,$0.00
+6,Methazolamide 50 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,100,TAB,$88.69
+6,Methimazole  2.5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,2.5 mg,100,TAB,$0.25
+6,Methimazole 10 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,10 mg,100,TAB,$14.44
+6,Methimazole 5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,5 mg,100,TAB,$18.05
+6,Methimazole 5mg/0.1ml Transdermal ,,1,1,0,0,ML,0,0,0,0,0,5mg,3,ML,$27.00
+6,Methimazole 5mg/mL Solution,,1,1,0,0,BTTL,0,0,0,0,0,5 mg,1,BTTL,$45.95
+6,Methlyprednisolone 40mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,40 mg,5,ML,$48.15
+6,Methocarbamol 100mg/mL Inj,Robaxin,1,1,0,0,ML,0,0,0,0,0,100 mg,50,ML,$98.78
+6,Methocarbamol 500mg Tablet,Robaxin,1,1,0,0,TAB,0,0,0,0,0,500 mg,100,TAB,$2.72
+6,Methocarbamol 750 mg Tablet,Robaxin,1,1,0,0,TAB,0,0,0,0,0,750 mg,100,TAB,$3.10
+6,Methylpred acetateDepo-med 40mg/ml,,1,1,0,0,ML,0,0,0,0,0,40 mg,5,ML,$22.63
+6,MethylPREDNISolone 4 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,4 mg,100,TAB,$42.72
+6,MethylPREDNISolone 8 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,8 mg,25,TAB,$41.27
+6,MethylprednisoloneSolu Med inj500mg,,1,0,0,0,BTTL,0,0,0,0,0,500 mg,1,BTTL,$23.52
+6,Metoclopramide 1 mg/ml Oral Soln,Reglan,1,1,0,0,ML,0,0,0,0,0,1 mg,473,ML,$72.60
+6,Metoclopramide 10 mg Tablet,Reglan,1,1,0,0,TAB,0,0,0,0,0,10 mg,100,TAB,$4.48
+6,Metoclopramide 5mg/5ml Oral,Reglan,1,0,0,0,BTTL,0,0,0,0,0,5mg,1,BTTL,$23.64
+6,Metoclopramide 5mg/ml Inj,Reglan,1,1,0,0,ML,0,0,0,0,0,5 mg,2,ML,$32.65
+6,Metoprolol Tartrate 1 mg/mL Inj,,1,0,0,0,VIAL,0,0,0,0,0,1 mg,10,VIAL,$10.26
+6,Metrobactin 500mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,500 mg,100,TAB,$30.72
+6,Metronidazole 100mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,100 mg,100,TAB,$0.51
+6,Metronidazole 125mg/ml Oral,,1,1,0,0,ML,0,0,0,0,0,125 mg,100,ML,$95.20
+6,Metronidazole 25 mg Tiny Tabs,,1,1,0,0,TAB,0,0,0,0,0,25 mg,100,TAB,$45.00
+6,Metronidazole 250mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,250 mg,500,TAB,$19.29
+6,Metronidazole 30mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,30 mg,100,TAB,$0.00
+6,Metronidazole 500mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,500 mg,500,TAB,$46.00
+6,Metronidazole 50mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,100,TAB,$0.39
+6,Metronidazole 50mg/ml Oral ,,1,1,0,0,ML,0,0,0,0,0,50 mg,120,ML,$0.00
+6,Mexiletine 200 mg Capsule,,1,0,0,0,CAP ,0,0,0,0,0,200 mg,100,CAP ,$161.40
+6,Mexiletine 250 mg Capsule,,1,0,0,0,CAP ,0,0,0,0,0,250 mg,100,CAP,$189.04
+6,Mexiletinehydroklorid kapsel 167 mg,,1,0,0,0,CAP,0,0,0,0,0,167 mg,100,CAP,$0.00
+6,Miconahex Triz Mousse 7.1oz,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$19.30
+6,Miconazole Nitrate 1% 120mL Bttl,,1,0,0,0,BTTL,0,0,0,0,0,1%,1,BTTL,$4.75
+6,Micralax enema 5ml,,1,0,0,0,TUBE,0,0,0,0,0,,12,TUBE,$12.25
+0,Micro Clave Multi Dose Vial Adapter,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Micro Slides Frosted 25MMX75MM B72,,1,0,1,0,BOX,0,0,0,0,0,,1,BOX,$2.96
+6,Microlax Enema,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$0.00
+6,Microshield Neutral Handwash 500mls,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$13.79
+4,Midazolam 5mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,5mg,10,ML,$12.41
+6,Milbemite,,1,0,0,0,TUBE,0,0,0,0,0,,10,TUBE,$214.80
+6,Milprazon L/dog (5-25kg) Tablet,,1,1,0,0,TAB,0,0,0,0,0,,48,TAB,$71.20
+6,Milpro L/cat (2-8kg) Tablet,,1,1,0,0,TAB,0,0,0,0,0,,48,TAB,$72.01
+6,Minims fluorescein sodium 1%,,1,0,0,0,VIAL,0,0,0,0,0,1%,20,VIAL,$14.83
+6,Minims proxymetacaine HCL 0.5%,,1,0,0,0,VIAL,0,0,0,0,0,0.50%,20,VIAL,$24.17
+6,Mirataz 20mg/ml 5g,,1,0,0,0,TUBE,0,0,0,0,0,20 mg,5,TUBE,$29.87
+6,Mirtazapine 15mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,15 mg,30,TAB,$1.26
+6,Mirtazapine 2 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,2 mg,100,TAB,$0.00
+6,Mirtazapine 3mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,3 mg,100,CAP,$0.63
+6,Mirtazapine 5g transdermal gel,,1,0,0,0,EACH,0,0,0,0,0,5 g,1,EACH,$27.87
+6,Mirtazapine 7.5 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,7.5 mg,30,TAB,$23.71
+6,Mirtazapine Transdermal Ointment 5g,,1,0,0,0,EACH ,0,0,0,0,0,5 g,1,EACH,$21.00
+6,Misoprostol 100 mcg Tablet,,1,1,0,0,TAB,0,0,0,0,0,100 mcg,60,TAB,$38.06
+6,Mometamax 15g,,1,0,0,0,EACH ,0,0,0,0,0,15 g,1,EACH,$31.91
+6,Mometamax 7.5g,,1,0,0,0,EACH ,0,0,0,0,0,7.5 g,1,EACH,$0.00
+6,Mometamax susp 30g,,1,0,0,0,BTTL,0,0,0,0,0,30 g,1,BTTL,$19.82
+2,Morphine 10mg/ml Inj,,1,0,0,0,VIAL,1,1,1,1,1,10 mg,25,VIAL,$25.20
+2,Morphine Sulfate (PF) 0.5mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,0.5 mg,10,ML,$3.70
+6,MotaZol 15g,,1,0,0,0,BTTL,0,0,0,0,0,15 g,12,BTTL,$21.88
+6,Moxifloxacin 0.5% Ophth Sol,,1,0,0,0,BTTL,0,0,0,0,0,0.50%,1,BTTL,$15.48
+6,Mupirocin Ointment 2%,,1,0,0,0,BTTL,0,0,0,0,0,2%,1,BTTL,$0.00
+6,Mycophenolic Acid DR 360 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,360 mg,100,TAB,$0.00
+6,Mydfrin 2.5% 5ml,,1,0,0,0,EACH ,0,0,0,0,0,2.50%,1,RACH,$8.70
+6,Naloxone 0.4 mg/ml Inj,,1,0,0,0,VIAL,0,0,0,0,0,0.4 mg,1,VIAL,$52.62
+6,Narketan 10% Inj (10),,1,0,0,0,VIAL,0,0,0,0,0,10%,10,VIAL,$12.10
+6,Nasalgen IP 10DS,,1,0,0,0,DOSE,0,0,0,0,0,,10,DOSE,$0.00
+6,Navel Dip,,1,0,0,0,JUG,0,0,0,0,0,,1,JUG,$0.00
+6,Navel Guard 1 gal,,1,0,0,0,GAL,0,0,0,0,0,,1,GAL,$23.14
+6,Naxcel Inj 4gm vial,,1,1,0,0,ML,0,0,0,0,0,4 g,80,ML,$168.74
+6,Nemex-2 Oral 60mL,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Neo Poly B  Sol 10ml btl,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$46.86
+6,Neo/Poly/Dex Ophth Ointment 3.5g,,1,0,0,0,EACH,0,0,0,0,0,3.5 g,1,EACH,$4.25
+6,Neo/Poly/Dex Ophth Solution,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$4.91
+6,Neomycin Sulfate 200 mg/mL Oral Sus,,1,1,0,0,ML,0,0,0,0,0,200 mg,473,ML,$9.54
+6,Neo-Predef Powder ,,1,0,0,0,BTTL,0,0,0,0,0,,12,BTTL,$264.35
+6,Neptra Ear Drop Solu 1ml per tube,,1,0,0,0,TUBE,0,0,0,0,0,,10,TUBE,$125.52
+6,NexGard Chew 10-24lbs ,Nexgard,1,0,0,0,DOSE,0,0,0,0,0,,30,CHEW,$417.50
+6,Niacinamide 500 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,500 mg,100,TAB,$2.38
+6,Nitenpyram 11.4 mg Tablet,Capstar,1,1,0,0,TAB,0,0,0,0,0,11.4 mg,6,TAB,$28.10
+6,Nitenpyram 57 mg Tablet,Capstar,1,1,0,0,TAB,0,0,0,0,0,57 mg,6,TAB,$29.19
+6,Nitroglycerin Ointment 30g tube,,1,0,0,0,TUBE,0,0,0,0,0,30 g,1,TUBE,$56.18
+6,Norepinephrine 1 mg/mL Inj,,1,0,0,0,VIAL,0,0,0,0,0,1 mg,10,VIAL,$89.70
+6,Novofine Needle 30g 8mm (per need),,1,0,0,0,EACH,0,0,0,0,0,30 g,100,EACH,$0.00
+6,Nuflor 300mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,300 mg,100,ML,$1.30
+6,Numotizine Poultice 24oz,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Nuplura PH 50ds,,1,0,0,0,DOSE,0,0,0,0,0,,50,DOSE,$105.92
+6,Nutri-Cal 4.25oz,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$7.36
+6,Nutri-Plus gel 120g tube,,1,0,0,0,TUBE,0,0,0,0,0,120 g,1,TUBE,$9.50
+6,Nystatin-Neomycin-Triam Oint 454g,,1,0,0,0,EACH,0,0,0,0,0,454 g,1,EACH,$45.07
+6,Oclacitinib 16 mg chew,Apoquel,1,1,0,0,TAB,0,0,0,0,0,16 mg,100,TAB,$181.95
+6,Oclacitinib 16mg Tablet,Apoquel,1,1,0,0,TAB,0,0,0,0,0,16 mg,100,TAB,$1.86
+6,Oclacitinib 3.6 mg chew,Apoquel,1,1,0,0,TAB,0,0,0,0,0,3.6 mg,100,TAB,$0.00
+6,Oclacitinib 3.6mg Tablet,Apoquel,1,1,0,0,TAB,0,0,0,0,0,3.6 mg,100,TAB,$1.86
+6,Oclacitinib 5.4 mg chew,Apoquel,1,1,0,0,TAB,0,0,0,0,0,5.4 mg,100,TAB,$0.00
+6,Oclacitinib 5.4mg Tablet,Apoquel,1,1,0,0,TAB,0,0,0,0,0,5.4 mg,100,TAB,$1.86
+6,Oculenis XL Corneal Repair Gel 10ml,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$43.54
+6,Ofloxacin Ophthalmic Solution 0.3%,,1,0,0,0,BTTL,0,0,0,0,0,0.30%,1,BTTL,$6.52
+6,Omeprazole 10mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,10 mg,100,CAP,$3.14
+6,Omeprazole 10mg/mL Oral,,1,1,0,0,ML,0,0,0,0,0,10 mg,120,ML,$0.09
+6,Omeprazole 2.5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,2.5 mg,100,TAB,$27.00
+6,Omeprazole 20mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,20 mg,100,CAP,$3.23
+6,Omeprazole 30mg  Capsule,,1,0,0,0,CAP ,0,0,0,0,0,30 mg,100,CAP ,$2.56
+6,Omeprazole 40mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,40 mg,100,CAP,$4.72
+6,Omeprazole 40mg Inj,,1,1,0,0,ML,0,0,0,0,0,40 mg,10,ML,$0.00
+6,Omeprazole 5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,5 mg,100,TAB,$36.00
+6,Omnipaque 240mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,240 mg,50,ML,$63.49
+6,Omnipaque 350mgInj,Contrast,1,1,0,0,ML,0,0,0,0,0,350 mg,500,ML,$299.00
+6,Ondansetron 2 mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,2 mg,20,ML,$4.98
+6,Ondansetron 4mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,4 mg,30,TAB,$2.84
+6,Ondansetron 8 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,8 mg,30,TAB,$2.49
+6,Ophthalmic eye wash,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Optimmune Ophth Oint 3.5gm,,1,0,0,0,EACH,0,0,0,0,0,3.5 g,1,EACH,$38.89
+6,Optixcare Eye Lube 20g,,1,0,0,0,TUBE,0,0,0,0,0,20 g,1,TUBE,$8.07
+6,Optixcare L-Lysine Powder,,1,0,0,0,JAR,0,0,0,0,0,,1,JAR,$11.98
+6,Oralade GI Support,,1,0,0,0,EACH,0,0,0,0,0,500 ml,6,EA,$76.79
+6,Orbifloxacin 30mg/mL Oral,,1,1,0,0,ML,0,0,0,0,0,30 mg,20,ML,$246.78
+6,Oseltamivir 75 mg Capsule,,1,0,0,0,CAP ,0,0,0,0,0,75 mg,10,CAP,$10.49
+6,Osurnia Gel Tube,,1,0,0,0,TUBE,0,0,0,0,0,,20,,$181.83
+6,Otoclean Ear Cleaner 5ml (18),,1,0,0,0,BTTL,0,0,0,0,0,,1,,$14.89
+6,Otomax Ear Drops,,1,0,0,0,BTTL,0,0,0,0,0,,1,,$14.06
+6,Otomax Ointment 15gm,,1,0,0,0,TUBE,0,0,0,0,0,15 g,12,TUBE,$76.58
+6,Otomax Ointment 7.5 g,,1,0,0,0,BTTL,0,0,0,0,0,7.5 g,12,BTTL,$167.28
+6,Otoprof ear cleaner 50ml bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,,$0.00
+6,Oxytocin 200mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,200 mg,100,ML,$6.96
+6,Panacur 10% Suspension 100mg/ml,Panacur,1,1,0,0,ML,0,0,0,0,0,100mg,1000,ML,$121.28
+6,Panacur C K9 Dewormer 1g Per Pkt,Panacur,1,0,0,0,PACKET,0,0,0,0,0,1 g,30,PACKET,$50.80
+6,Panacur C K9 Dewormer 2g Per Pkt,Panacur,1,0,0,0,PACKET,0,0,0,0,0,2 g,30,PACKET,$77.10
+6,Panacur C K9 Dewormer 4g Per Pkt,Panacur,1,0,0,0,PACKET,0,0,0,0,0,4 g,30,PACKET,$122.60
+6,Panacur granules 22% 1.8g each,Panacur,1,0,0,0,EACH,0,0,0,0,0,1.8 g,90,,$87.22
+6,Panacur granules 22% 4.5g each,Panacur,1,0,0,0,EACH,0,0,0,0,0,4.5g,60,,$113.19
+6,PANACUR PASTE EQUINE 25GM,Panacur,1,0,0,0,EACH,0,0,0,0,0,25 g,1,EA,$0.00
+6,Panoquell CA1 4mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,4 mg,4,,$231.50
+6,Pantoprazole 4 mg/ml Inj,Protonix,1,1,0,0,ML,0,0,0,0,0,4 mg,10,VIAL,$43.06
+6,Pantoprazole 40mg/vial Inj,,1,1,0,0,ML,0,0,0,0,0,40 mg,10,BTTL,$34.93
+6,Paroxetine 30 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,30 mg,30,TAB,$2.09
+6,Parvo Shield Vac Killed Virus,,1,0,0,0,DOSE,0,0,0,0,0,,1,,$0.00
+6,PCV3 250DS,Merck,1,0,0,0,DOSE,0,0,0,0,0,,1,BTTL,$0.00
+6,Penicillin G 500ml Bottle,,1,1,0,0,ML,0,0,0,0,0,,500,,$36.57
+3,Pentobarbital Sodium 390 mg/mL Inj,"Fatal Plus, Euthasol",1,1,0,0,ML,1,1,1,1,1,390 mg,250,ML,$0.00
+6,Pentoxifylline ER 400mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,400 mg,100,TAB,$42.93
+6,Peptivet Oto Gel  25ml,,1,0,0,0,TUBE,0,0,0,0,0,,1,,$16.15
+6,Percorten 25mg/ml Inj,Zycortal,1,1,0,0,ML,0,0,0,0,0,25mg,1,ML,$0.00
+6,PetEma Fel Enema 6mL,,1,0,0,0,SYR,0,0,0,0,0,,1,SYR,$3.21
+6,Petrolatum Ophthalmic Oint 3.5 g,,1,0,0,0,TUBE,0,0,0,0,0,3.5 g,1,TUBE,$5.64
+6,PetVisionPro Eye Drop 4 mL,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+4,Phenobarbital 120mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,120 mg,10,ML,$175.84
+4,Phenobarbital 130mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,130 mg,1,ML,$195.00
+4,Phenobarbital 16.2 mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,16.2 mg,100,TAB,$5.77
+4,Phenobarbital 30mg Tablet (1000),Epiphen,1,1,0,0,TAB,1,1,1,1,1,30 mg,1000,TAB,$84.59
+4,Phenobarbital 32.4 mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,32.4 mg,100,TAB,$5.86
+4,PHENObarbital 4 mg/mL Oral ,,1,1,0,0,ML,1,1,1,1,1,4 mg,473,ML,$33.15
+4,Phenobarbital 40mg/ml Inj (30ml),Epiphen,1,1,0,0,ML,1,1,1,1,1,4mg,30,ML,$10.44
+4,Phenobarbital 60mg Tablet  (1000),Epiphen,1,1,0,0,TAB,1,1,1,1,1,60 mg,1000,TAB,$165.87
+4,Phenobarbital 64.8 mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,64.8 mg,100,TAB,$9.08
+4,PHENObarbital 65 mg/ml Inj,,1,1,0,0,ML,1,1,1,1,1,65 mg,1,ML,$19.52
+4,Phenobarbital 97.2 mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,97.2 mg,100,TAB,$11.91
+4,Phenobarbitone (60mg) 1ml Vial,,1,0,0,0,VIAL,1,1,1,1,1,60mg,10,VIAL,$212.22
+6,Phenylbutazone Paste 20gm tube,Vetribute,1,0,0,0,TUBE,0,0,0,0,0,20 g,1,TUBE,$185.47
+6,Phenylephrine 2.5% Eye Drops Minims,,1,0,0,0,VIAL,0,0,0,0,0,2.50%,20,VIAL,$87.12
+6,Phenylpropanolamine 50 mg Chew,,1,1,0,0,TAB,0,0,0,0,0,50 mg,60,TAB,$27.92
+6,Phenylpropanolamine ER 145mg Tabs,,1,1,0,0,TAB,0,0,0,0,0,145 mg,30,TAB,$31.77
+6,Phenylpropanolamine ER 18mg Tabs,,1,1,0,0,TAB,0,0,0,0,0,18 mg,30,TAB,$15.21
+6,Phenylpropanolamine ER 38mg Tabs,,1,1,0,0,TAB,0,0,0,0,0,38 mg,30,TAB,$19.79
+6,Phenylpropanolamine ER 74mg Tabs,,1,1,0,0,TAB,0,0,0,0,0,74 mg,30,TAB,$26.32
+6,Phylyte / Normosol-R (1000ml),,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$7.52
+6,Pilocarpine 1% Ophthalmic Sol 15 mL,,1,0,0,0,BTTL,0,0,0,0,0,1%,1,BTTL,$49.03
+6,Pilocarpine 2% Ophthalmic Sol 15 mL,,1,0,0,0,BTTL,0,0,0,0,0,2%,1,BTTL,$51.22
+6,Pimobendan 0.75mg/ml Inj 5ml vial,Vetmedin,1,0,0,0,VIAL,0,0,0,0,0,0.75 mg,1,VIAL,$25.49
+6,Pimobendan 1.25 mg Chew Tablet,Vetmedin,1,1,0,0,TAB,0,0,0,0,0,1.25 mg,50,TAB,$37.55
+6,Pimobendan 1.5 mg/mL Oral,Vetmedin,1,1,0,0,ML,0,0,0,0,0,1.5 mg,50,ML,$46.50
+6,Pimobendan 10 mg Chew Tablet,Vetmedin,1,1,0,0,TAB,0,0,0,0,0,10 mg,50,TAB,$99.45
+6,Pimobendan 2.5 mg Chew Tablet,Vetmedin,1,1,0,0,TAB,0,0,0,0,0,2.5 mg,50,TAB,$58.42
+6,Pimobendan 5 mg Chew Tablet,Vetmedin,1,1,0,0,TAB,0,0,0,0,0,5 mg,50,TAB,$74.99
+6,Piroxicam 20 mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,20 mg,100,CAP,$16.57
+0,Plaqtiv+ Toothpaste Malt 70g,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$6.74
+0,Plaqtiv+ Water Additive 500ml,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$6.74
+6,Polyflex 25GM 200CC,,1,0,0,0,EACH,0,0,0,0,0,25 g,1,EACH,$0.00
+6,Posatex Otic Susp 15GM,,1,0,0,0,BTTL,0,0,0,0,0,15 g,12,BTTL,$386.28
+6,Posatex Otic Susp 30g,,1,0,0,0,BTTL,0,0,0,0,0,30 g,6,BTTL,$346.56
+6,Posatex Otic Susp 7.5g,,1,0,0,0,BTTL,0,0,0,0,0,7.5 g,12,BTTL,$258.00
+6,Potassium Bromide 200mg/mL Solution,,1,1,0,0,BTTL,0,0,0,0,0,200 mg,1,BTTL,$0.00
+6,Potassium Bromide 250 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,250 mg,60,TAB,$19.07
+6,Potassium Bromide 500mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,500 mg,60,TAB,$0.00
+6,Potassium Chloride 20meq/10ml Inj,,1,1,0,0,ML,0,0,0,0,0,20meq,250,ML,$74.95
+6,Potassium Chloride 40meq/20ml Inj ,KCL,1,1,0,0,ML,0,0,0,0,0,40meq,250,ML,$140.36
+6,Potassium Citrate 675 mg Chew Tablet,,1,1,0,0,TAB,0,0,0,0,0,675 mg,60,TAB,$15.25
+6,Potassium Citrate ER 540 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,540 mg,100,TAB,$23.41
+6,Potassium Gluconate 468mg,,1,0,0,0,BTTL,0,0,0,0,0,468 mg,1,BTTL,$0.00
+6,Potassium Gluconate Gel 5oz,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$13.37
+6,Potassium Phosphate 3mmol/mL Inj,,1,1,0,0,ML,0,0,0,0,0,3mmol,5,ML,$8.88
+6,Povidone Iodine Solution 1 Gallon,,1,0,0,0,GAL,0,0,0,0,0,,1,GAL,$25.84
+6,Pradofloxacin 120mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,120 mg,70,TAB,$298.31
+6,Pradofloxacin 25mg/ml Oral 15ml,Pradofloxacin,1,0,0,0,BOX,0,0,0,0,0,25mg,1,BOX,$0.00
+6,Pradofloxacin 25mg/ml Oral 30ml,Pradofloxacin,1,0,0,0,BTTL,0,0,0,0,0,25mg,6,BTTL,$173.65
+6,Pradofloxacin 60mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,60 mg,70,TAB,$198.87
+6,Praziquantel 23mg Feline Tablet,Droncit,1,1,0,0,TAB,0,0,0,0,0,23 mg,50,TAB,$7.46
+6,Praziquantel 34 mg Tablet ,,1,1,0,0,TAB,0,0,0,0,0,34 mg,50,TAB,$219.92
+6,Praziquantel 56.8mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,56.8 mg,10,ML,$88.92
+6,Prazosin 0.5mg,,1,1,0,0,TAB,0,0,0,0,0,.5mg,60,TAB,$49.50
+6,Prazosin 1 mg Capsule,,1,0,0,0,CAP ,0,0,0,0,0,1 mg,100,CAP,$7.91
+6,Prazosin HCl 1mg/ml Oral ,,1,1,0,0,ML,0,0,0,0,0,1 mg,30,ML,$78.00
+6,Pred Forte 5ml Oral,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$4.87
+6,PredniSOLONE 15mg/5ml Oral,,1,1,0,0,ML,0,0,0,0,0,15 mg,480,ML,$51.11
+6,PrednisOLOne 1mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,1 mg,120,ML,$0.15
+6,PrednisoLONE 20 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,20 mg,500,TAB,$70.84
+6,Prednisolone 3mg/mL Oral,,1,1,0,0,ML,0,0,0,0,0,3 mg,473,ML,$49.36
+6,Prednisolone 5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,5 mg,1000,TAB,$65.99
+6,Prednisolone Acetate 1% 15ml,,1,0,0,0,BTTL,0,0,0,0,0,1%,1,BTTL,$111.55
+6,Prednisone 10mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,10 mg,100,TAB,$2.75
+6,PredniSONE 1mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,1 mg,100,TAB,$5.38
+6,PredniSONE 2.5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,2.5 mg,100,TAB,$7.38
+6,Prednisone 20mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,20 mg,500,TAB,$45.08
+6,PredniSONE 50 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,100,TAB,$18.52
+6,Prednisone 5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,5 mg,1000,TAB,$55.86
+5,Pregabalin 20mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,20 mg,100,TAB,$27.75
+5,Pregabalin 20mg/ml Oral ,,1,1,0,0,ML,1,1,1,1,1,20 mg,473,ML,$36.90
+6,Proheart 12 (5x10ml),,1,1,0,0,ML,0,0,0,0,0,,50,ML,"$2,042.25 "
+6,Proin 25mg  Chewable Tablet,,1,1,0,0,TAB,0,0,0,0,0,25 mg,60,TAB,$0.00
+6,Proin 50mg Chewable Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,60,TAB,$0.00
+6,Proin 75mg Chewable Tablet,,1,1,0,0,TAB,0,0,0,0,0,75 mg,60,TAB,$0.00
+6,Pro-Kolin 60ml Probiotic,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$43.79
+6,Pro-Kolin Advanced Dogs 30ml,,1,0,0,0,SYR,0,0,0,0,0,,1,SYR,$27.99
+6,Propalin syrup 100ml bottle,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$22.61
+6,Proparacaine 0.5% Opth Solution,,1,0,0,0,BTTL,0,0,0,0,0,0.50%,1,BTTL,$10.51
+6,Pro-Pectalin Gel 15mL,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$13.52
+6,Pro-Pectalin Gel 30mL,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$17.30
+6,Propoflo 28 Vial 5x20mL Box,,1,1,0,0,ML,0,0,0,0,0,,100,ML,$78.07
+6,Propofol 28 Green Inj 2X50ML,,1,0,0,0,BTTL,0,0,0,0,0,,2,BTTL,$65.35
+6,Propranolol 80mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,80 mg,100,TAB,$62.12
+6,Proviable Capsules,,1,0,0,0,CAP,0,0,0,0,0,,80,CAP,$30.74
+6,Proviable-Forte Chew Tablet,,1,1,0,0,TAB,0,0,0,0,0,,180,TAB,$93.80
+6,Proviable-Forte Paste 15 mL Kit,,1,0,0,0,KIT,0,0,0,0,0,,5,KIT,$84.50
+6,Proviable-Forte Paste 30 mL Kit,,1,0,0,0,KIT,0,0,0,0,0,,5,KIT,$94.50
+6,ProZinc Insulin U-40 10mL vial,,1,0,0,0,VIAL,0,0,0,0,0,U40,1,VIAL,$42.50
+6,Purevax Feline 3 RCP 0.5ML Vial,,1,0,0,0,VIAL,0,0,0,0,0,,25,DOSE,$141.26
+6,Pyrantel Pamoate Oral Suspension,Strongid,1,1,0,0,ML,0,0,0,0,0,,473,ML,$13.09
+6,Pyrantel Pamoate Paste,Exodus,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$6.41
+6,Rabies 3 Vaccine 50X1DS,Vanguard,1,0,0,1,DOSE,0,0,0,0,0,,50,DOSE,$105.00
+6,Rabies Feline 1 YEAR 0.5ML,Purevax,1,0,0,1,DOSE,0,0,0,0,0,,25,DOSE,$423.30
+6,Rabies Vaccine 50ml / box,Imrab,1,0,0,1,DOSE,0,0,0,0,0,,50,DOSE,$19.80
+6,Ramipril 1.25 mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,1.25 mg,100,CAP,$6.52
+6,Ramipril 5 mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,5 mg,100,CAP,$20.52
+6,Ranitidine 25mg,,1,1,0,0,TAB,0,0,0,0,0,25 mg,100,TAB,$27.00
+6,Rearguard 25ml,,1,1,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Rejensa K9 Chews 30ct,,1,0,0,0,TUB,0,0,0,0,0,,1,TUB,$30.00
+6,Renal Essentials K9/Fel 60ct Chew,,1,0,0,0,BAG,0,0,0,0,0,,1,BAG,$22.22
+6,Renal K Gel ,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$0.00
+6,Revolution Canine 10.1-20 lbs,Revolution,1,0,0,0,DOSE,0,0,0,0,0,,6,DOSE,$42.40
+6,Rilexine palatable 300mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,300 mg,210,TAB,$41.28
+6,Rilexine palatable 600mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,600 mg,210,TAB,$54.49
+6,Rilexine palatable 75mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,75 mg,210,TAB,$32.14
+6,Robenacoxib 10mg Tablet,Onsior,1,1,0,0,TAB,0,0,0,0,0,10 mg,30,TAB,$1.06
+6,Robenacoxib 20mg Tablet,Onsior,1,1,0,0,TAB,0,0,0,0,0,20 mg,60,TAB,$0.00
+6,Robenacoxib 20mg/mL Inj,Onsior,1,1,0,0,ML,0,0,0,0,0,20 mg,20,ML,$128.75
+6,Robenacoxib 40mg Tablet,Onsior,1,1,0,0,TAB,0,0,0,0,0,40 mg,30,TAB,$1.79
+6,Robenacoxib 5mg Tablet,Onsior,1,1,0,0,TAB,0,0,0,0,0,5 mg,30,TAB,$0.75
+6,Robenacoxib 6mg Tablet,Onsior,1,1,0,0,TAB,0,0,0,0,0,6 mg,30,TAB,$94.00
+6,Ropinirole  30mg/ml Ophth Soln 3ml ,Clevor,1,0,0,0,TUBE,0,0,0,0,0,30 mg,5,TUBE,$119.21
+6,Saline  0.9% 1000ml,,1,0,0,0,EACH,0,0,0,0,0,0.90%,1,EACH,$4.66
+6,Saline 0.9% 100ml,,1,0,0,0,EACH,0,0,0,0,0,0.90%,1,EACH,$2.07
+6,Saline 0.9% 250ml,,1,0,0,0,EACH,0,0,0,0,0,0.90%,1,EACH,$3.22
+6,Samylin 1g small breed Packet,,1,0,0,0,EACH,0,0,0,0,0,1 g,30,EACH,$0.00
+6,Samylin 4g medium breed Packet,,1,0,0,0,EACH,0,0,0,0,0,4 g,30,EACH,$44.00
+6,Samylin 5.3g large breed Packet,,1,0,0,0,EACH,0,0,0,0,0,5.3 g,30,EACH,$54.00
+0,Scissors Metzenbaum Curved 7.0 ,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,ScourGuard 4KX50,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Sentinel 2-10lbs Brown,Sentinel,1,0,0,0,PACKET,0,0,0,0,0,,10,PACKET,$210.40
+6,Serenicare Dogs & Cats (30),,1,0,0,0,EACH,0,0,0,0,0,,30,EACH,$19.15
+6,SeroLube Eye Serum 3.5mL,,1,0,0,0,BTTL,0,0,0,0,0,,12,BTTL,$215.00
+6,Sildenafil 100mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,100 mg,1,TAB,$19.43
+6,Sildenafil 20mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,20 mg,90,TAB,$9.24
+6,Sildenafil 25mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,,4,TAB,$9.29
+6,Silver Sulfadiazine  400gm Jar,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$77.28
+6,Silver Sulfadiazine 1% Cream Tube,,1,0,0,0,TUBE,0,0,0,0,0,1%,1,TUBE,$9.48
+6,Silver Sulfadiazine 50g Jar,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$9.82
+6,Silybin  90mg Tablet,SAMeLQ,1,1,0,0,TAB,0,0,0,0,0,90 mg,30,TAB,$0.90
+6,Silybin 225mg Tablet,SAMeLQ,1,1,0,0,TAB,0,0,0,0,0,225 mg,30,TAB,$1.21
+6,Silybin 425mg Tablet,SAMeLQ,1,1,0,0,TAB,0,0,0,0,0,425 mg,30,TAB,$2.03
+6,Simethicone 66.6 mg/mL Oral  ,,1,1,0,0,ML,0,0,0,0,0,66.6 mg,30,ML,$2.08
+6,Simparica Trio 12mg Lt Brn 11-22lb,Simparica Trio,1,0,0,0,DOSE,0,0,0,0,0,12 mg,6,DOSE,$17.11
+6,Simparica Trio 24mg Blue 22-44lbs,Simparica Trio,1,0,0,0,DOSE,0,0,0,0,0,24 mg,6,DOSE,$19.38
+6,Simparica Trio 3mg Yellow 2-5lbs,Simparica Trio,1,0,0,0,DOSE,0,0,0,0,0,3 mg,6,DOSE,$15.67
+6,Simparica Trio 48mg Green 44-88lbs,Simparica Trio,1,0,0,0,DOSE,0,0,0,0,0,48 mg,6,DOSE,$22.43
+6,Simparica Trio 6mg Purple 5-11lbs,Simparica Trio,1,0,0,0,DOSE,0,0,0,0,0,6 mg,6,DOSE,$15.79
+6,Simparica Trio 72mg Dk Brn 88-132lb,Simparica Trio,1,0,0,0,DOSE,0,0,0,0,0,72 mg,6,DOSE,$26.16
+6,Simplera 1 ml Dose,,1,0,0,0,DOSE,0,0,0,0,0,,10,EACH,$158.40
+6,Sirolimus DR 1.2 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,1.2 mg,12,TAB,$96.48
+6,Sirolimus DR 2.4 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,2.4 mg,12,TAB,$160.80
+6,Size 1 Neonatal BP CLASSIC-CUF  ,,1,0,1,0,EACH,0,0,0,0,0,,20,EACH,$160.00
+6,Size 10 Clipper Blade A5 ,,1,0,1,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Size 4 Neonatal BP CLASSIC-CUF ,,1,0,1,0,EACH,0,0,0,0,0,,20,EACG,$160.00
+6,Size 5 Neonatal BP CLASSIC-CUF ,,1,0,1,0,EACH,0,0,0,0,0,,20,EACG,$160.00
+6,Size 84 Clipper Blade Au,,1,0,1,0,EACH,0,0,0,0,0,,1,EACG,$14.85
+6,Skunk Off Soaker ,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$7.29
+6,SMZ TMP 960mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,960 mg,100,TAB,$5.13
+6,SMZ-TMP 480mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,480 mg,500,TAB,$17.34
+6,SMZ-TMP 48mg/ml Oral,,1,1,0,0,ML,0,0,0,0,0,48 mg,473,ML,$41.12
+6,SNAP 4Dx,,1,0,0,0,TEST,0,0,0,0,0,,30,EACH,$696.00
+6,Sodalime ,,1,0,1,0,BTTL,0,0,0,0,0,,1,BTTL,$99.16
+6,Sodium Bicarbonate 8.4% Inj ,,1,1,0,0,ML,0,0,0,0,0,8.40%,1,BTTL,$19.56
+6,Sodium Chloride 0.9% 10ml Vial,,1,0,0,0,EACH,0,0,0,0,0,0.90%,25,EACH,$26.99
+6,Sodium Chloride 5% Ophth Ointment,,1,0,0,0,TUBE,0,0,0,0,0,5%,1,TUBE,$0.00
+6,Sodium Chloride 5% Ophth Soln 15 mL,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Sodium Hyaluronate 0.18% 10 mL,,1,0,0,0,BTTL,0,0,0,0,0,0.18%,1,BTTL,$11.25
+6,Sodium Hyaluronate 0.2% 10 mL,,1,0,0,0,BTTL,0,0,0,0,0,0.20%,1,BTTL,$22.46
+6,Sodium Bicarbonate Paste,Bovine Buffer,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Solu Medrol 1G 16mL Diluent,,1,1,0,0,ML,0,0,0,0,0,1G,16,ML,$42.90
+6,Solu-DeltaCortef 100mg Inj,,1,0,0,0,VIAL,0,0,0,0,0,100 mg,1,VIAL,$13.20
+6,Sorbitol 700 mg/mL Oral ,,1,1,0,0,ML,0,0,0,0,0,700 mg,473,ML,$11.87
+6,Sotalol 80mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,80 mg,100,TAB,$0.33
+6,Sotalol HCl 80mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,80 mg,100,TAB,$6.20
+6,Spironolactone 25mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,25 mg,100,TAB,$7.44
+0,Sterile Water 1000ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$4.82
+0,Sterile Water 100ml ,,1,0,0,0,BTTL,0,0,0,0,0,,25,BTTL,$128.85
+0,Sterile Water 10ml,,1,0,0,0,BTTL,0,0,0,0,0,,25,BTTL,$34.07
+0,Sterile Water 250ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$3.44
+6,Strong Iodine 7% 16oz,Triodine 7,1,0,0,0,EACH,0,0,0,0,0,7%,1,EACH,$14.88
+6,Stronghold 15mg Fel Pink <2.5kg,,1,0,0,0,EACH,0,0,0,0,0,15mg,6,EACH,$16.75
+6,Stronghold 45mg Fel Blue 2.6-7.5kg,,1,0,0,0,EACH,0,0,0,0,0,45 mg,6,EACG,$22.44
+6,Sucralfate 1 gram Tablet,,1,1,0,0,TAB,0,0,0,0,0,1 g,500,TAB,$83.34
+6,Sucralfate 100mg/ml Oral ,,1,1,0,0,ML,0,0,0,0,0,100mg,414,ML,$100.70
+6,Sucralfate 200mg/mL Oral,,1,1,0,0,ML,0,0,0,0,0,200 mg,500,ML,$0.15
+6,Sulfadimethoxine 125mg Tablet,Albon,1,1,0,0,TAB,0,0,0,0,0,125 mg,200,TAB,$44.05
+6,Sulfadimethoxine 250mg Tabet,Albon,1,1,0,0,TAB,0,0,0,0,0,250 mg,500,TAB,$238.50
+6,Sulfadimethoxine 5% Oral,Albon,1,1,0,0,ML,0,0,0,0,0,5%,60,ML,$14.95
+6,Sulfadimethoxine 500mg Tablet,Albon,1,1,0,0,TAB,0,0,0,0,0,500 mg,500,TAB,$100.25
+6,Sulfadimethoxine 50mg/mL,Albon,1,1,0,0,ML,0,0,0,0,0,50 mg,473,ML,$107.95
+6,Surgical Scrub Brush  4% CHG,,1,0,1,0,BOX,0,0,0,0,0,4%,1,BOX,$47.23
+6,Surolan Otic Susp 15mL,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$23.17
+6,Surolan Otic Susp 30mL,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$42.71
+6,Sustain 5.4g  Sachets Large Breed,,1,0,0,0,EACH,0,0,0,0,0,5.4 g,30,EACH,$24.00
+6,Sustain2.7g Sachets Sm/Med Breed,,1,0,0,0,EACH,0,0,0,0,0,2.7 g,30,EACH,$19.00
+6,Synotic Otic 8mL,Synotic,1,0,0,0,BTTL,0,0,0,0,0,,12,BTTL,$212.05
+6,Synulox Palatable 50mg/ml Drops,,1,0,0,0,BTTL,0,0,0,0,0,50 mg,1,BTTL,$2.58
+6,Tacrolimus 1 mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,1 mg,100,CAP,$58.71
+6,Tears Naturale 15mls,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$10.38
+6,Technovit Liquid 480cc,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Technovit Powder 1000g,,1,0,0,0,JAR,0,0,0,0,0,1000 g,1,JAR,$92.00
+3,Telazol 100mg/ml Inj,,1,1,0,1,ML,1,1,1,1,1,100 mg,5,ML,$0.00
+6,Temaril- P Tablet,Temaril,1,1,0,0,TAB,0,0,0,0,0,,100,TAB,$75.00
+6,Tensospray 300mL,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$25.29
+6,Terbinafine 250 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,250 mg,30,TAB,$3.95
+6,Terbutaline 1mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,1 mg,10,ML,$57.96
+6,Terbutaline 5mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,5 mg,100,TAB,$41.09
+6,Terramycin Ophth Oint ,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$19.70
+6,T-FloLoc 2% Tetra EDTA,,1,0,0,0,BOX,0,0,0,0,0,2%,1,BOX,$239.00
+6,Theophylline 100mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,100 mg,100,TAB,$0.19
+6,Theophylline 50mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,100,TAB,$40.00
+6,Theophylline ER 400 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,400 mg,100,TAB,$137.30
+6,Therabloat,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Thiamine 500mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,500 mg,100,ML,$0.94
+6,Thyronorm 5mg/ml Oral (100ml),,1,0,0,0,BTTL,0,0,0,0,0,5mg,1,BTTL,$23.89
+6,Thyronorm 5mg/ml Oral (30ml) ,,1,0,0,0,BTTL,0,0,0,0,0,5mg,1,BTTL,$9.55
+6,TMS Suspension 48mg/ml 473ml,,1,1,0,0,ML,0,0,0,0,0,48 mg,473,ML,$15.79
+6,Tobra 0.3% / Dexameth 01% Liq 5mL,,1,0,0,0,BTTL,0,0,0,0,0,0.30%,1,BTTL,$15.16
+6,Tobramycin 0.3% Ophth Oint ,,1,0,0,0,EACH,0,0,0,0,0,0.30%,1,EACH,$13.37
+6,Tobramycin 0.3% Ophth Sol ,,1,0,0,0,BTTL,0,0,0,0,0,0.30%,1,BTTL,$6.61
+6,Tobramycin 40mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,40 mg,30,ML,$22.26
+6,Toltrazuril 5% Oral  ,,1,1,0,0,ML,0,0,0,0,0,5%,250,ML,$0.62
+6,Torsemide 2 mg/mL Oral ,,1,1,0,0,ML,0,0,0,0,0,2 mg,32,ML,$19.50
+6,Toxiban 240ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$14.81
+4,Tramadol 50 mg Tablet,,1,1,0,0,TAB,1,1,1,1,1,50 mg,100,TAB,$2.08
+4,Tramadol 50mg/ml Oral,,1,1,0,0,ML,1,1,1,1,1,50 mg,60,ML,$56.00
+6,Tranexamic Acid 650mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,650 mg,30,TAB,$17.37
+6,Transdermal Mirtazapine 2mg/0.05ml,Mirataz,1,0,0,0,EACH,0,0,0,0,0,2mg,6,EACH,$129.00
+6,Transfer Pipette 1.7mL 500ct,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$47.83
+6,Travatan 40mcg/ml Opth Drops 2.5ml,,1,0,0,0,EACH,0,0,0,0,0,40mcg,1,EACH,$17.64
+6,Trazodone 100mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,100 mg,1000,TAB,$0.00
+6,Trazodone 150mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,150 mg,100,TAB,$5.99
+6,Trazodone 200mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,200 mg,100,TAB,$183.00
+6,Trazodone 50mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,50 mg,84,CAP,$11.11
+6,Trazodone 50mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,1000,TAB,$0.00
+6,Tresaderm Solution 15mL,,1,0,0,0,BTTL,0,0,0,0,0,,12,BTTL,$284.93
+6,Tresaderm Solution 7.5mL,,1,0,0,0,BTTL,0,0,0,0,0,,12,BTTL,$164.89
+6,Tricin Ear & Eye Oint 4gm,,1,0,0,0,EACH,0,0,0,0,0,4 g,1,EACH,$10.92
+6,Tri-Hist Granules,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$112.15
+6,Trilostane 10mg Capsule,Vetoryl,1,0,0,0,CAP,0,0,0,0,0,10 mg,30,CAP,$30.57
+6,Trilostane 120mg Capsule,Vetoryl,1,0,0,0,CAP,0,0,0,0,0,120 mg,30,CAP,$112.46
+6,Trilostane 30mg Capsule,Vetoryl,1,0,0,0,CAP,0,0,0,0,0,30 mg,30,CAP,$41.22
+6,Trilostane 5mg Capsule,Vetoryl,1,0,0,0,CAP,0,0,0,0,0,5 mg,30,CAP,$26.78
+6,Trilostane 60mg Capsule,Vetoryl,1,0,0,0,CAP,0,0,0,0,0,60 mg,30,CAP,$51.31
+6,Triple Antibiotic Ointment 1oz,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$2.38
+6,TrizChlor 4 Spray,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$17.52
+6,Trizultra + Keto Flush 4oz,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$11.90
+6,Trusopt 2% Eye Drops,,1,0,0,0,EACH,0,0,0,0,0,2%,1,EACH,$0.00
+6,TYLAN 200/250ML INJ,Tylan,1,0,0,0,EACH,0,0,0,0,0,200/250 ml,1,EACH,$0.00
+6,TYLAN 50/100ml Inj,Tylan,1,0,0,0,EACH,0,0,0,0,0,50/100 ml,1,EACH,$0.00
+6,Tylan Powder 100g Jar,Tylan,1,0,0,0,BTTL,0,0,0,0,0,100 g,1,BTTL,$58.26
+6,Tylosin 50mg ,,1,0,0,0,CAP ,0,0,0,0,0,50 mg,60,CAP,$0.58
+6,U100 0.5ml x 29g Insulin Syringe,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$12.90
+6,U-100 Insulin Syr 0.3ml x 29g 100ct,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,$14.72
+6,U-40 Insulin Inj,Vetsulin,1,0,0,0,VIAL,0,0,0,0,0,,1,VIAL,$41.29
+6,Ultrabac 7,Ultrabac 7,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$25.39
+6,Urine Collection Bag 1000mL,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$19.00
+6,Ursodiol 100mg Quad Tablet,,1,1,0,0,TAB,0,0,0,0,0,100 mg,100,TAB,$55.00
+6,Ursodiol 250mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,250 mg,100,TAB,$27.73
+6,Ursodiol 500 mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,500 mg,100,TAB,$132.64
+6,Valacyclovir 1 gm Tablet,,1,1,0,0,TAB,0,0,0,0,0,1 g,30,TAB,$14.30
+6,Valbazen Drench Gun 50mL  5L,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Valbazen Susp 1LTR,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Varenzin-CA1 25mg/ml Feline Oral,,1,0,0,0,BTTL,0,0,0,0,0,25 mg,1,BTTL,$36.70
+6,Velagliflozin 15mg/ml Oral,Senvelgo,1,0,0,0,BTTL,0,0,0,0,0,15 mg,1,BOX,$0.00
+6,Ventipulmin Syrup 100ml,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$113.59
+6,Ventipulmin Syrup 330ml ,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$269.39
+6,Verapamil ER 120 mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,120 mg,100,CAP,$35.31
+6,Verapamil ER 240mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,240 mg,100,TAB,$29.42
+6,Vetdyne 7% Gal,,1,0,0,0,GAL,0,0,0,0,0,7%,1,GAL,$33.00
+6,Veterinus Derma Gel ,,1,0,0,0,EACH ,0,0,0,0,0,,1,EACH,$32.85
+6,VetGold cream 30ml,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$10.14
+6,Vetigel Hemostatic Gel 5mL Syringe,,1,0,0,0,SYR,0,0,0,0,0,,2,SYR,$76.14
+6,Vetropolycin Opth Oint,,1,0,0,0,EACH,0,0,0,0,0,,1,EACH,$0.00
+6,Vets4pets HairballRelief 100ml ,,1,0,0,0,TUBE,0,0,0,0,0,,1,TUBE,$7.62
+6,Vets4Pets StressRelief 120ml ,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$11.98
+6,Vetsalve 20mg,,1,0,0,0,EACH,0,0,0,0,0,20 mg,1,EACH,$0.00
+6,VICRYL 5-0 P-3 18in 12ct Suture,J463G,1,0,0,0,PACKET,0,0,0,0,0,,12,PACKET,$217.84
+6,Vincristine 1mg/ml Inj,,1,1,0,0,ML,0,0,0,0,0,1 mg,5,ML,$63.31
+6,Viscotears 10G Gel,,1,0,0,0,TUBE,0,0,0,0,0,10 g,1,TUBE,$10.61
+6,Vision 7 with Spur Vaccine 100mL,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Vision 8 with Spur Vaccine 20mL,,1,0,0,0,DOSE,0,0,0,0,0,,10,DOSE,$0.00
+6,Vitamin A Drops ,,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$0.00
+6,Vitamin B Complex High Inj 500mL,,1,1,0,0,ML,0,0,0,0,0,,500,ML,$20.05
+6,Vitamin B Complex Inj 100ml,,1,1,0,0,ML,0,0,0,0,0,,100,ML,$6.24
+6,Vitamin B Oral ,Pet Tinic,1,0,0,0,BTTL,0,0,0,0,0,,1,BTTL,$8.25
+6,Vitamin B12 (1000 mcg/ml) Inj,,1,1,0,0,ML,0,0,0,0,0,1000 mcg,100,ML,$10.07
+6,Vitamin C 250 mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,250 mg,100,ML,$4.75
+6,Vitamin K 25mg Capsule ,,1,0,0,0,CAP,0,0,0,0,0,25 mg,50,CAP,$7.82
+6,Vitamin K 50 mg Capsule,,1,0,0,0,CAP ,0,0,0,0,0,50 mg,50,CAP,$15.29
+6,Vitamin K 50mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,50,TAB,$20.20
+6,Vitamin K1 10 mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,10 mg,100,ML,$16.79
+6,Vitamin K1 25mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,25 mg,50,TAB,$10.25
+6,Vitamin K1 50mg Tablet,,1,1,0,0,TAB,0,0,0,0,0,50 mg,50,TAB,$17.53
+6,Vitamin K1 Inj 5ml Amp,,1,0,0,0,AMP,0,0,0,0,0,,6,AMP,$96.09
+6,VitaminK 50mg Capsule ,,1,0,0,0,CAP,0,0,0,0,0,50 mg,50,CAP,$14.66
+6,Warfarin 2.5 mg Capsule,,1,0,0,0,CAP,0,0,0,0,0,2.5 mg,100,CAP,$21.18
+6,Xeno 450 Spot On Tube,,1,0,0,0,TUBE,0,0,0,0,0,,6,TUBE,$22.79
+0,Yorker Bottle  8oz,,1,0,1,0,BAG,0,0,0,0,0,,1,BAG,$17.93
+0,Yorker Bottle 1/2 oz,,1,0,1,0,BAG,0,0,0,0,0,,1,BAG,$5.88
+6,Yumove Advance 360 Canine Tablet ,,1,1,0,0,TAB,0,0,0,0,0,,270,TAB,$64.71
+6,Yunnan Baiyao ,,1,0,0,0,BOX,0,0,0,0,0,,1,BOX,
+6,Zoledronic Acid 0.8 mg/mL Inj,,1,1,0,0,ML,0,0,0,0,0,0.8 mg,5,ML,23.32999992
+6,Zycortal -25mg/ml Inj ,Zycortal,1,1,0,0,ML,0,0,0,0,0,,4,ML,144.4100037
+6,Zylkene 225mg Capsule 120ct,Zylkene,1,0,0,0,BTTL,0,0,0,0,0,225 mg,1,BTTL,127.4300003
+6,Zymox Otic HC 1.0% 1.25oz,,1,0,0,0,BTTL,0,0,0,0,0,1.00%,1,BTTL,14.10000038
