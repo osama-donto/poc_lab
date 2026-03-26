@@ -64,7 +64,8 @@ model_list:
 
 general_settings:
   forward_client_headers_to_llm_api: true   # ← this is the key line
-  # use_chat_completions_url_for_anthropic_messages : true
+  forward_llm_provider_auth_headers: true
+  use_chat_completions_url_for_anthropic_messages : true
   master_key: os.environ/LITELLM_MASTER_KEY
   host: "0.0.0.0"
   port: 4000
